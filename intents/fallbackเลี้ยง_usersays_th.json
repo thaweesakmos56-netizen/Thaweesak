@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fc81aefb-8075-411b-ab4f-147193f46ad1",
+    "data": [
+      {
+        "text": "วิธีเลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "37f336ac-d8ce-4874-b037-2b26a65c798e",
+    "data": [
+      {
+        "text": "เลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

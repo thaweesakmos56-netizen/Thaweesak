@@ -1,0 +1,35 @@
+{
+  "id": "e25573aa-599f-410c-9cb7-678c3329f7f5",
+  "name": "สภาพที่อยูตามธรรมชาติ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ลักษณะที่อยู่ของแมงป่องช้าง\n ส่วนกลางวันจะหลบนอนพักผ่อนเพราะมองไม่ค่อยเห็น ชอบอากาศร้อนชื้น อุณหภูมิประมาณ 20-30 องศาเซลเซียส"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

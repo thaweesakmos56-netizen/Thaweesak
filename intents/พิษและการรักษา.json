@@ -1,0 +1,75 @@
+{
+  "id": "80b05e9c-89d4-454b-90ca-7cff9eb22c49",
+  "name": "พิษและการรักษา",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "-followup",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "template",
+              "altText": "คุณบังเอิญถูกแมงป่องช้างต่อยหรือไม่?",
+              "template": {
+                "actions": [
+                  {
+                    "label": "ใช่",
+                    "text": "ใช่",
+                    "type": "message"
+                  },
+                  {
+                    "type": "message",
+                    "label": "ไม่ใช่",
+                    "text": "ไม่ใช่"
+                  }
+                ],
+                "text": "คุณบังเอิญถูกแมงป่องช้างต่อยหรือไม่?",
+                "title": "คำถาม",
+                "type": "buttons"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "พิษของแมงป่องช้างถูกปล่อยออกมา จากเหล็กใน ภายใต้การควบคุมของกล้ามเนื้อที่ อยู่บริเวณต่อมพิษ ลักษณะเป็นของเหลวขั้นสี ขาวขุ่นคล้ายน้ำนม ประกอบด้วยโปรตีนหลาย ชนิด โปรตีนที่เป็นตัวการสำคัญทำให้เหยื่อตาย หรือเป็นอัมพาต คือ ท็อกซิน (toxin) คนหรือสัตว์ที่ถูกแมงป่องต่อยจะมีอาการตอบสนองต่อพิษแตกต่างกัน ขึ้นอยู่กับสภาพร่างกายและสุข ภาพ บางรายจะมีอาการปวด บวม แดง และอัก เสบในบริเวณที่ได้รับพิษ หรือบางรายอาจเจ็บ ปวดเพียงบริเวณที่ถูกต่อย และคงอยู่ไม่กี่ชั่วโมง หรืออาจปวดร้าวไปทั่ว แล้วเกิดอาการแพ้อย่าง รุนแรงเป็นเวลาหลายวัน"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

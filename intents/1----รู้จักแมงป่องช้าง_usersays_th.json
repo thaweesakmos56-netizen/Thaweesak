@@ -1,0 +1,54 @@
+[
+  {
+    "id": "686ae6f3-6819-474d-b38a-eab43bcbf5df",
+    "data": [
+      {
+        "text": "แมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "23cac646-80ea-46c7-921f-ce6a84f371a1",
+    "data": [
+      {
+        "text": "แมวป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cf897d5c-fbc7-4377-a2f3-62133d648fcd",
+    "data": [
+      {
+        "text": "แมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dfb471c8-a38e-4c45-be8d-e26bb0c11105",
+    "data": [
+      {
+        "text": "รู้จักแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

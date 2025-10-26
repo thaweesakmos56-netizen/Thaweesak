@@ -1,0 +1,93 @@
+[
+  {
+    "id": "117a519f-1677-4a1a-992f-c6236093852b",
+    "data": [
+      {
+        "text": "พิษและอาการเมื่อโดนต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ce2cad94-f01a-4d35-a3a7-1924465216f2",
+    "data": [
+      {
+        "text": "ระวังเรื่องพิษ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2231ff72-8849-4b6d-9a5b-098e79df4aaa",
+    "data": [
+      {
+        "text": "พิษแมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "710387fc-22f1-4151-b4df-9d931e12d2e2",
+    "data": [
+      {
+        "text": "พิษแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "aa1bb045-a127-4146-a2b0-adbbd3711bfe",
+    "data": [
+      {
+        "text": "พิษแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f199cfad-bb19-41b5-8c18-0be0ef0510ee",
+    "data": [
+      {
+        "text": "พิษและการรักษา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cf184a8f-6ee4-42b1-ad0e-fa07eb16230d",
+    "data": [
+      {
+        "text": "พิษ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

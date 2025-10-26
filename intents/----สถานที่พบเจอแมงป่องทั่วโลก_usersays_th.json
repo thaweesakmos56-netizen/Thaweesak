@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9f4a5803-8c92-4350-904e-43d5480b98db",
+    "data": [
+      {
+        "text": "เจอได้ที่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "37e9a90a-0a29-439e-9e8d-c213aee47904",
+    "data": [
+      {
+        "text": "โลก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0195f6d1-ffd3-4ca8-92a3-f90decd0d9c6",
+    "data": [
+      {
+        "text": "สถานที่พบเจอแมงป่องทั่วโลก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "c2699878-46fe-4aa9-9e6b-951e82eaa3f5",
+  "name": "ปรสิต",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การถูกทำลายจากปรสิต: เช่น การติดเชื้อพยาธิที่สามารถโจมตีแมงป่องได้ เช่น พยาธิที่อยู่ในร่างกายของแมงป่องและสามารถทำให้มันป่วย หรือแมงป่องอาจจะเป็นพาหะนำโรคไปยังสัตว์อื่น   การรักษาจากการถูกทำลายจากปรสิต:\n•\tหากแมงป่องมีปรสิตภายในร่างกาย อาจต้องใช้ยารักษาพยาธิหรือยาฆ่าปรสิต ซึ่งจะต้องได้รับคำแนะนำจากสัตวแพทย์\n•\tควรตรวจสอบแมงป่องอย่างสม่ำเสมอเพื่อหาปรสิตและรักษาโดยการทำความสะอาดร่างกายของมัน ใช้แปรงอ่อนนุ่มปัดเบาๆตามตัว"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,117 @@
+{
+  "id": "647c3a3b-03d4-4629-aa12-1be7af12ce8f",
+  "parentId": "3dafbbb1-fda4-468d-ab6b-346acb9e8d99",
+  "rootParentId": "4d5baa7d-468a-438a-98be-31ca1accace5",
+  "name": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง - yes - custom",
+  "auto": true,
+  "contexts": [
+    "-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-yes.-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "การเลี้ยงไว้ดูเล่น",
+              "contents": {
+                "type": "bubble",
+                "size": "mega",
+                "body": {
+                  "layout": "vertical",
+                  "type": "box",
+                  "paddingAll": "20px",
+                  "contents": [
+                    {
+                      "align": "center",
+                      "text": "การเลี้ยงไว้ดูเล่น",
+                      "size": "xxl",
+                      "type": "text",
+                      "color": "#6D4C3F",
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "separator",
+                      "color": "#feecc7",
+                      "margin": "lg"
+                    },
+                    {
+                      "backgroundColor": "#FFFFFF",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "weight": "bold",
+                          "text": "การเลี้ยงเพื่อความสวยงาม",
+                          "margin": "md",
+                          "type": "text",
+                          "size": "md",
+                          "color": "#6D4C3F"
+                        },
+                        {
+                          "color": "#111111",
+                          "text": "การเลี้ยงเพื่อความเพลิดเพลินและความสวยงาม การเลี้ยงแมงป่องเพื่อดูเล่นมีวัตถุประสงค์หลักเพื่อความเพลิดเพลินและเพื่อสังเกตพฤติกรรมของสัตว์ สามารถใช้ตู้ปลาขนาดเล็กถึงขนาดกลาง (ราคาประมาณ 350-400 บาทต่อใบ) โดยปล่อยแมงป่องจำนวน 3-5 ตัว และเตรียมถาดน้ำไว้ให้",
+                          "type": "text",
+                          "wrap": true,
+                          "size": "sm"
+                        },
+                        {
+                          "margin": "md",
+                          "type": "separator"
+                        },
+                        {
+                          "size": "md",
+                          "margin": "md",
+                          "color": "#6D4C3F",
+                          "text": "พฤติกรรมประจำวัน: ",
+                          "weight": "bold",
+                          "type": "text"
+                        },
+                        {
+                          "type": "text",
+                          "size": "sm",
+                          "margin": "md",
+                          "wrap": true,
+                          "color": "#111111",
+                          "text": "ช่วงกลางวันแมงป่องจะรวมตัวพักอยู่บริเวณมุมใดมุมหนึ่งของตู้ ช่วงกลางคืนแมงป่องจะออกหากินและแสดงการเรืองแสงอย่างสวยงาม หากต้องการชมลักษณะการเรืองแสงที่ชัดเจน สามารถติดตั้งหลอดไฟแบล็กไลท์ (แสงสีม่วง) เหนือตู้ และปิดไฟดวงอื่นทั้งหมด จะปรากฏการเรืองแสงคล้ายพรายน้ำที่ทำให้ดูน่าตื่นตาตื่นใจ"
+                        }
+                      ],
+                      "layout": "vertical",
+                      "spacing": "sm",
+                      "cornerRadius": "lg",
+                      "type": "box",
+                      "paddingAll": "25px"
+                    }
+                  ],
+                  "backgroundColor": "#F5E8D0"
+                }
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

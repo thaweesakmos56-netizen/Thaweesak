@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0c0099d3-035a-417b-8ccd-6f8e87622de4",
+    "data": [
+      {
+        "text": "แมงป่องกินได้ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3d2fb4e6-aaaf-4f78-ba29-a2b5d5cbf3dc",
+    "data": [
+      {
+        "text": "ประโยชน์ทางยา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3d7e8e8b-aa01-4ea7-a462-09f61e6e6c49",
+    "data": [
+      {
+        "text": "สรรพคุณของแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b170f566-3479-4cb8-a459-093e554f825d",
+    "data": [
+      {
+        "text": "สรรพคุณของแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "fad4bd6a-1833-4fd8-aae4-73a26da3f198",
+    "data": [
+      {
+        "text": "สรรพคุณ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a6daa117-3d05-4c4e-953e-861e141b530a",
+    "data": [
+      {
+        "text": "ประโยชน์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c3a550fd-9cd2-40f0-8a0c-625b26bde78d",
+    "data": [
+      {
+        "text": "สรรพคุณทางยา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

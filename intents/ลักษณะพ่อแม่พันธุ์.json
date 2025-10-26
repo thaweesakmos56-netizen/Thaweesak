@@ -1,0 +1,45 @@
+{
+  "id": "36a4ff3e-4a0e-4178-b088-ab6b86fc234a",
+  "name": "ลักษณะพ่อแม่พันธุ์",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ตัวผู้ จะมีลักษณะเรียว หางยาวและกล้ามใหญ่ เมื่อถูกบุกรุกจะออกหน้าก่อน ชูหาง ชูก้าม เพื่อข่มขู่คู่ต่อสู้"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ตัวเมีย จะมีส่วนท้องอ้วนและโตกว่าอย่างเห็นได้ชัด จะไม่ค่อยตกใจหรือออกหน้าก่อนเวลาถูกบุกรุก"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

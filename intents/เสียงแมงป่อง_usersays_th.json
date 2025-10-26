@@ -1,0 +1,28 @@
+[
+  {
+    "id": "241596ae-2636-4ba7-b92a-65eee57ba5ac",
+    "data": [
+      {
+        "text": "เสียงของแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "50480763-6746-477d-9a93-fbca9e230013",
+    "data": [
+      {
+        "text": "เสียง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  }
+]

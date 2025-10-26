@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8f421d53-8ec2-4868-8053-0e25c90e8077",
+    "data": [
+      {
+        "text": "การปฐมพยาบาลเมื่อโดนต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cb729640-9916-4249-8fa5-cde83c0e28f4",
+    "data": [
+      {
+        "text": "ถูกแมงป่องต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6735c5fd-94bd-4016-9f23-ac513b55fb4f",
+    "data": [
+      {
+        "text": "ถูกแมงป่องกัด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0e28da05-10f5-4f37-b013-d5cf01075ae9",
+    "data": [
+      {
+        "text": "โดนต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "27c8d8a6-cd4f-4009-885a-46d67e3c8286",
+    "data": [
+      {
+        "text": "ผู้เลี้ยงโดนแมงป่องต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

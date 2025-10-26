@@ -1,0 +1,145 @@
+{
+  "id": "1bd5002f-aa4a-404f-add0-f2e6ac848fde",
+  "parentId": "3dafbbb1-fda4-468d-ab6b-346acb9e8d99",
+  "rootParentId": "4d5baa7d-468a-438a-98be-31ca1accace5",
+  "name": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง - yes - เลี้ยงไว้กำจัดซากจิ้งหรีด",
+  "auto": true,
+  "contexts": [
+    "-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-yes.-yes-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "การเลี้ยงไว้กำจัดซากจิ้งหรีด",
+              "type": "flex",
+              "contents": {
+                "body": {
+                  "backgroundColor": "#F5E8D0",
+                  "paddingAll": "20px",
+                  "layout": "vertical",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "text": "การเลี้ยงไว้กำจัด",
+                      "color": "#6D4C3F",
+                      "size": "xxl",
+                      "type": "text",
+                      "weight": "bold",
+                      "align": "center"
+                    },
+                    {
+                      "text": "ซากจิ้งหรีด",
+                      "color": "#6D4C3F",
+                      "align": "center",
+                      "size": "xl",
+                      "type": "text",
+                      "weight": "bold"
+                    },
+                    {
+                      "margin": "lg",
+                      "color": "#feecc7",
+                      "type": "separator"
+                    },
+                    {
+                      "backgroundColor": "#FFFFFF",
+                      "layout": "vertical",
+                      "spacing": "sm",
+                      "type": "box",
+                      "cornerRadius": "lg",
+                      "paddingAll": "25px",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "margin": "md",
+                          "size": "md",
+                          "text": "การเลี้ยงเพื่อกำจัดซากจิ้งหรีด",
+                          "weight": "bold",
+                          "color": "#6D4C3F",
+                          "type": "text"
+                        },
+                        {
+                          "wrap": true,
+                          "color": "#111111",
+                          "size": "sm",
+                          "text": "การเลี้ยงเพื่อกำจัดซากจิ้งหรีดเหมาะสำหรับผู้ประกอบการฟาร์มจิ้งหรีด เมื่อมีจิ้งหรีดตายหรือพิการ (เช่น ขาขาด) สามารถนำมาเป็นอาหารแมงป่องแทนการทิ้งซาก ซึ่งช่วยลดการเน่าเสียและการแพร่เชื้อโรคในฟาร์มได้วิธีการเลี้ยง : ใช้บ่อปูนเช่นเดียวกับการเลี้ยงเพื่อบริโภค ปล่อยแมงป่องประมาณ 30–50 ตัวต่อบ่อ จำนวนรวม 100–200 ตัวผลลัพธ์ : ในช่วงเดือนพฤษภาคมถึงสิงหาคม แมงป่องจะเริ่มออกลูก ทำให้จำนวนเพิ่มขึ้นอย่างต่อเนื่อง",
+                          "type": "text"
+                        },
+                        {
+                          "color": "#feecc7",
+                          "type": "separator",
+                          "margin": "lg"
+                        },
+                        {
+                          "type": "text",
+                          "margin": "md",
+                          "text": "การเลี้ยง : ",
+                          "color": "#6D4C3F",
+                          "size": "md",
+                          "weight": "bold"
+                        },
+                        {
+                          "type": "text",
+                          "wrap": true,
+                          "size": "sm",
+                          "color": "#111111",
+                          "text": "ใช้บ่อปูนเช่นเดียวกับการเลี้ยงเพื่อบริโภค ปล่อยแมงป่องประมาณ 30–50 ตัวต่อบ่อ จำนวนรวม 100–200 ตัว"
+                        },
+                        {
+                          "color": "#feecc7",
+                          "margin": "lg",
+                          "type": "separator"
+                        },
+                        {
+                          "type": "text",
+                          "weight": "bold",
+                          "size": "md",
+                          "color": "#6D4C3F",
+                          "text": "ผลลัพธ์ : ",
+                          "margin": "md"
+                        },
+                        {
+                          "text": "ในช่วงเดือนพฤษภาคมถึงสิงหาคม แมงป่องจะเริ่มออกลูก ทำให้จำนวนเพิ่มขึ้นอย่างต่อเนื่อง",
+                          "wrap": true,
+                          "type": "text",
+                          "size": "sm",
+                          "color": "#111111"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "size": "mega",
+                "type": "bubble"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "246658a5-f3d0-4974-89d4-e727541410dc",
+    "data": [
+      {
+        "text": "วิธีรักษาโรค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "8ef60c8c-7365-480d-b8a2-fc3f25ff075a",
+    "data": [
+      {
+        "text": "วิธีการรักษาโรคเบื้องต้น",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "54df2122-dfc9-486f-a265-af6faedbb9a0",
+  "name": "นอกเหนือ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "\"ขออภัยค่ะ ข้อมูลนี้อยู่นอกขอบเขตที่แชทบอทสามารถให้คำตอบได้ ลองพิมพ์คำถามที่อื่นที่เกี่ยวข้องกับแมงป่องช้างค่ะ\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

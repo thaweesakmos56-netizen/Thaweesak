@@ -1,0 +1,145 @@
+[
+  {
+    "id": "a47d33d6-e488-4a71-9ea1-622d75a35197",
+    "data": [
+      {
+        "text": "อาการป่วย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d18dc7d3-61e2-4cc6-a79d-2d5714d95924",
+    "data": [
+      {
+        "text": "อาการผิดปกติ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3b66ef3b-e363-4665-ace4-809b0b05ad49",
+    "data": [
+      {
+        "text": "แมงป่องป่วย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b5adc054-e5e5-4101-b9dc-e159e457890b",
+    "data": [
+      {
+        "text": "รักษา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1e757273-9fb3-4905-a400-e386701835f7",
+    "data": [
+      {
+        "text": "บาดเจ็บ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "eb58b5e6-eaed-45e6-95e6-8ec68625015a",
+    "data": [
+      {
+        "text": "สุขภาพแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dc124ba0-b934-4fc4-a2ba-f0fb1be124f0",
+    "data": [
+      {
+        "text": "สุขภาพ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "29c33845-6448-4cb3-81f7-e2e094b97837",
+    "data": [
+      {
+        "text": "การบาดเจ็บ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "587181b6-875e-4a3c-9315-b83076313183",
+    "data": [
+      {
+        "text": "โรค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "89bef865-1a47-48bd-bff0-a25d744209e3",
+    "data": [
+      {
+        "text": "รักษาโรค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "342668b2-cd2d-4e3f-82ef-81bec416d1de",
+    "data": [
+      {
+        "text": "สุขภาพแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

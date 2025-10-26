@@ -1,0 +1,137 @@
+{
+  "id": "4d5baa7d-468a-438a-98be-31ca1accace5",
+  "name": "----การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "-followup-5",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง",
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "layout": "vertical",
+                  "spacing": "md",
+                  "contents": [
+                    {
+                      "color": "#996633",
+                      "type": "text",
+                      "align": "center",
+                      "weight": "bold",
+                      "text": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "text",
+                      "size": "md",
+                      "text": "การเตรียมพ่อแม่พันธุ์ ปล่อยแมงป่องพ่อแม่พันธุ์ 1:1 จำนวนบ่อละ 30-50 ตัว ให้อาหารตอนเย็น วันเว้นวัน ใช้ตัวที่อ้วนท้วนสมบูรณ์",
+                      "color": "#333333",
+                      "wrap": true
+                    },
+                    {
+                      "size": "xl",
+                      "weight": "bold",
+                      "align": "center",
+                      "color": "#996633",
+                      "text": "การเตรียมสถานที่เพาะเลี้ยง",
+                      "type": "text"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "wrap": true,
+                      "text": "สถานที่และวัสดุ เตรียมบ่อปูนขนาด 80 เซนติเมตร ใส่ดินหนา 5-10 เซนติเมตร ติดเทปกาวกันไม่ ให้ไต่ออก ใช้ตาข่ายในล่อนปิดด้านบนปากบ่อเอายางในรถรัดให้แน่น ใส่ถาดน้ำไว้ให้กินตลอดเวลาบ่อควรอยู่ในร่มห้ามโดนแดดเด็ดขาดและห้ามโดนฝน ถ้าดินแห้งควรรดน้ำในบ่อบ้างใส่ใบไม้ เช่น ใบหมาก ใบไม้ที่เวลาเหี่ยวหล่นยากหรือถาดใส่ไข่ไว้ก็ได้เอาไว้ให้แมงป่องซ่อนตัว หลบนอนในตอนกลางวัน",
+                      "size": "md",
+                      "color": "#333333",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "box"
+                }
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://mpics.mgronline.com/pics/Images/567000008305804.JPEG",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/linebot-5fcfa.firebasestorage.app/o/3-25-1024x768.jpg?alt\u003dmedia\u0026token\u003d6827d2b8-6f51-4891-bf63-96efae3caaf7",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "ต้องการทราบว่าเลี้ยงไว้ทำไม?",
+              "type": "template",
+              "template": {
+                "title": "คำถาม",
+                "type": "buttons",
+                "text": "ต้องการทราบไหม ว่าเลี้ยงไว้ทำไม?",
+                "actions": [
+                  {
+                    "label": "อยากรู้",
+                    "text": "ใช่",
+                    "type": "message"
+                  }
+                ]
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

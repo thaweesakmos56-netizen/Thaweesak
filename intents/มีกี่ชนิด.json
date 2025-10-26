@@ -1,0 +1,35 @@
+{
+  "id": "7fd79b00-6536-413c-b732-9095090521c2",
+  "name": "มีกี่ชนิด",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ในประเทศไทย มี 11 ชนิด และชนิดที่พบ บ่อยมากที่สุด คือ แมงป่องในอันดับ Scorpiones (หรือ Scorpionida) วงศ์ Scorpionidae สกุล Heterometrus ได้แก่ H. longimanus และ H. laoticus ส่วนใหญ่พบ H. laoticus มากทางภาค ตะวันออกเฉียงเหนือของไทย แมงป่องในสกุลนี้ เป็นแมงป่องที่มีขนาดใหญ่สกุลหนึ่งของโลก ทั้ง สองชนิดมีสีดำสนิท ขนาด 9-12 เซนติเมตร น้ำหนักตัว 10-12 กรัม ในธรรมชาติมีอายุราว 5-7 ปี และจำแนกจากกันได้ยาก จึงเรียกกันทั่ว ไปว่า Giant scorpion หรือ Asian forest scorpion หรือ Black scorpion หรือ “แมงป่องช้าง” ใน ภาษาไทย หรือ “แมงเงา” ในภาษาอีสาน"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

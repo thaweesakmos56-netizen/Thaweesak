@@ -1,0 +1,35 @@
+{
+  "id": "7075db26-08bb-429b-8179-d310ebd5805f",
+  "name": "สถานที่เลี้ยง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "สถานที่และวัสดุ เตรียมบ่อปูนขนาด 80 เซนติเมตร ใส่ดินหนา 5-10 เซนติเมตร ติดเทปกาวกันไม่ ให้ไต่ออก ใช้ตาข่ายในล่อนปิดด้านบนปากบ่อเอายางในรถรัดให้แน่น ใส่ถาดน้ำไว้ให้กินตลอดเวลาบ่อควรอยู่ในร่มห้ามโดนแดดเด็ดขาดและห้ามโดนฝน ถ้าดินแห้งควรรดน้ำในบ่อบ้างใส่ใบไม้ เช่น ใบหมาก ใบไม้ที่เวลาเหี่ยวหล่นยากหรือถาดใส่ไข่ไว้ก็ได้เอาไว้ให้แมงป่องซ่อนตัว หลบนอนในตอนกลางวัน"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

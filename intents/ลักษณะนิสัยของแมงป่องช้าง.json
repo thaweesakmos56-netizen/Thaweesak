@@ -1,0 +1,35 @@
+{
+  "id": "03962f0d-e5f0-46e5-931d-8ca78c520fe6",
+  "name": "ลักษณะนิสัยของแมงป่องช้าง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "โดยปกติจะไม่ค่อยดุร้าย นอกจากว่ามัน ถูกบุกรุกหรือถูกทำร้ายก่อนเท่านั้น เป็นสัตว์หา กินในเวลากลางคืน ส่วนกลางวันจะหลบนอนพักผ่อนเพราะมองไม่ค่อยเห็น ชอบอากาศร้อน ชิ้น อุณหภูมิประมาณ 20-30 องศาเซลเซียส\nแมงป่องจัดเป็นพวก “กินกันเอง\" (Cani balism) หรือแม้แต่แม่แมงป่องเองก็ยังกินลูกตัว เอง และหลังผสมพันธุ์ “ตัวเมียจะกินตัวผู้” เป็นอาหาร"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

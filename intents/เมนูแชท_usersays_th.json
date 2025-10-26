@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e87017da-5f28-4887-ba5b-c9e4103733f5",
+    "data": [
+      {
+        "text": "ข้อมูลทั่วไปเกี่ยวกับแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "702ce646-25c8-4c52-90a3-461ece360d36",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

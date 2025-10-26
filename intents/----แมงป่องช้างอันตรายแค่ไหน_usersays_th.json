@@ -1,0 +1,54 @@
+[
+  {
+    "id": "85d89ac8-32a0-434a-be71-5e68d488f129",
+    "data": [
+      {
+        "text": "เหล็กไน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2544340f-e04d-4df2-9a0b-ad972b73b87e",
+    "data": [
+      {
+        "text": "พิษ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f48e11f0-8bf7-4298-9d38-5c9b30b3db64",
+    "data": [
+      {
+        "text": "ความอันตราย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "39ef5c03-9f6a-45b2-b555-8840531d0105",
+    "data": [
+      {
+        "text": "แมงป่องช้างอันตรายแค่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

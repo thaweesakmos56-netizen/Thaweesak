@@ -1,0 +1,122 @@
+{
+  "id": "83d6288e-1469-4d4e-ab61-197a9396e265",
+  "name": "000000",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "size": "mega",
+            "hero": {
+              "aspectMode": "cover",
+              "type": "image",
+              "size": "full",
+              "url": "https://your-image-url.com/logo.png",
+              "aspectRatio": "20:13"
+            },
+            "body": {
+              "contents": [
+                {
+                  "weight": "bold",
+                  "size": "xl",
+                  "text": "แมงป่องช้างน่ารัก 🦂🐘",
+                  "type": "text",
+                  "align": "center"
+                },
+                {
+                  "text": "แหล่งรวมความรู้ \u0026 บริการ",
+                  "color": "#AAAAAA",
+                  "size": "sm",
+                  "type": "text",
+                  "margin": "md",
+                  "align": "center"
+                },
+                {
+                  "type": "separator",
+                  "margin": "md"
+                },
+                {
+                  "spacing": "md",
+                  "margin": "lg",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "style": "primary",
+                      "color": "#93C572",
+                      "action": {
+                        "text": "คู่มือการเลี้ยง",
+                        "type": "message",
+                        "label": "📖 คู่มือการเลี้ยง"
+                      }
+                    },
+                    {
+                      "action": {
+                        "label": "📸 แกลลอรี่แมงป่อง",
+                        "text": "แกลลอรี่แมงป่อง",
+                        "type": "message"
+                      },
+                      "type": "button",
+                      "color": "#86A8E7",
+                      "style": "primary"
+                    },
+                    {
+                      "type": "button",
+                      "style": "primary",
+                      "action": {
+                        "label": "❓ ถามตอบแชทบอท",
+                        "type": "message",
+                        "text": "ถามตอบ"
+                      },
+                      "color": "#FFB347"
+                    },
+                    {
+                      "type": "button",
+                      "action": {
+                        "label": "🌐 เว็บไซต์ของเรา",
+                        "type": "uri",
+                        "uri": "https://yourwebsite.com"
+                      },
+                      "style": "link"
+                    }
+                  ],
+                  "layout": "vertical"
+                }
+              ],
+              "layout": "vertical",
+              "type": "box"
+            },
+            "type": "bubble"
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

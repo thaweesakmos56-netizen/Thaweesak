@@ -1,0 +1,41 @@
+[
+  {
+    "id": "caa691a3-9af4-452b-bc63-4e03accc0c62",
+    "data": [
+      {
+        "text": "วิธีเลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "944e2007-2206-4bdb-859a-b4204d6ee5d9",
+    "data": [
+      {
+        "text": "การเลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "82e65b59-44c2-4d66-95aa-7227c68e478f",
+    "data": [
+      {
+        "text": "คำแนะนำการเลี้ยงดู",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

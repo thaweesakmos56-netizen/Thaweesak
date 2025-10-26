@@ -1,0 +1,41 @@
+[
+  {
+    "id": "8abb2668-ea87-4235-bdb2-0c848e75d4bd",
+    "data": [
+      {
+        "text": "แมงป่องช้างอันตรายไหม?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2fdbaffd-08d0-4e8c-8abf-4ecb2eacc984",
+    "data": [
+      {
+        "text": "ความปลอยภัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "65382ecc-0ac3-432f-859d-8516b5e0fd67",
+    "data": [
+      {
+        "text": "ความปลอดภัยในการเลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

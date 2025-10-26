@@ -1,0 +1,149 @@
+{
+  "id": "d7b9d51e-63c5-453a-83ec-68f07e648e9b",
+  "name": "สุขภาพแมงป่อง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "-followup-3",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "size": "mega",
+                "body": {
+                  "paddingAll": "20px",
+                  "layout": "vertical",
+                  "backgroundColor": "#E7CBA8",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "color": "#6D4C3F",
+                      "text": "อาการผิดปกติ",
+                      "weight": "bold",
+                      "type": "text",
+                      "size": "xxl",
+                      "align": "center"
+                    },
+                    {
+                      "cornerRadius": "lg",
+                      "paddingAll": "25px",
+                      "contents": [
+                        {
+                          "color": "#111111",
+                          "text": "(1) การติดเชื้อแบคทีเรียหรือเชื้อรา: แมงป่องอาจติดเชื้อจากสิ่งแวดล้อม เช่น การสัมผัสกับเชื้อโรคในดินหรือสิ่งปฏิกูล ซึ่งอาจทำให้เกิดการติดเชื้อที่ขา หรือผิวหนังของแมงป่อง",
+                          "wrap": true,
+                          "type": "text",
+                          "size": "sm"
+                        },
+                        {
+                          "margin": "md",
+                          "type": "separator"
+                        },
+                        {
+                          "text": " (2) การถูกทำลายจากปรสิต: เช่น การติดเชื้อพยาธิที่สามารถโจมตีแมงป่องได้ เช่น พยาธิที่อยู่ในร่างกายของแมงป่องและสามารถทำให้มันป่วย หรือแมงป่องอาจจะเป็นพาหะนำโรคไปยังสัตว์อื่น",
+                          "wrap": true,
+                          "type": "text",
+                          "margin": "md",
+                          "size": "sm",
+                          "color": "#111111"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "size": "sm",
+                          "wrap": true,
+                          "text": "(3) ความเครียดหรือสภาพแวดล้อมที่ไม่เหมาะสม: หากแมงป่องต้องอยู่ในสภาพแวดล้อมที่ไม่เหมาะสม เช่น มีอุณหภูมิที่สูงเกินไป หรือขาดน้ำ จะทำให้มันมีอาการเครียด และอาจทำให้ร่างกายอ่อนแอลงจนทำให้เกิดการเจ็บป่วยหรือการตาย",
+                          "type": "text",
+                          "color": "#111111"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "type": "text",
+                          "size": "sm",
+                          "wrap": true,
+                          "color": "#111111",
+                          "text": "(4) การได้รับพิษจากแมงป่องชนิดอื่น: ในธรรมชาติ แมงป่องบางชนิดอาจจะต้องเผชิญกับการถูกแมงป่องอื่น ๆ กัดหรือทำร้ายซึ่งอาจทำให้เกิดบาดแผลหรือการติดเชื้อ"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        }
+                      ],
+                      "spacing": "sm",
+                      "margin": "md",
+                      "layout": "vertical",
+                      "backgroundColor": "#FFFFFF",
+                      "type": "box"
+                    }
+                  ]
+                },
+                "type": "bubble"
+              },
+              "altText": "การเลี้ยงไว้ดูเล่น",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "template",
+              "template": {
+                "title": "คำถาม",
+                "text": "การรักษาโรคเพิ่มเติม",
+                "type": "buttons",
+                "actions": [
+                  {
+                    "label": "วิธีการรักษาโรคเบื้องต้น",
+                    "type": "message",
+                    "text": "วิธีการรักษาโรคเบื้องต้น"
+                  }
+                ]
+              },
+              "altText": "การรักษาโรคเพิ่มเติม"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

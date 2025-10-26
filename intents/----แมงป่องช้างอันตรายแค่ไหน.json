@@ -1,0 +1,167 @@
+{
+  "id": "20f93753-28e0-4e6b-b6a2-7c1c7ef92848",
+  "name": "----แมงป่องช้างอันตรายแค่ไหน",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "color": "#85583F",
+                      "size": "xxl",
+                      "margin": "md",
+                      "type": "text",
+                      "align": "center",
+                      "text": "แมงป่องช้าง"
+                    },
+                    {
+                      "margin": "md",
+                      "align": "center",
+                      "text": "อันตรายแค่ไหน",
+                      "weight": "bold",
+                      "color": "#85583F",
+                      "type": "text",
+                      "size": "xxl"
+                    },
+                    {
+                      "color": "#A8B49B",
+                      "type": "separator",
+                      "margin": "md"
+                    },
+                    {
+                      "color": "#3A3A3A",
+                      "text": "ปกติแมงป่องช้างจะไม่ดุ และจะอยู่นิ่งๆ",
+                      "type": "text",
+                      "align": "center",
+                      "size": "md",
+                      "margin": "sm"
+                    },
+                    {
+                      "size": "md",
+                      "text": "ไม่ก้าวร้าวถ้าเราไม่เข้าไปยุ่งไปวุ้นวาย",
+                      "align": "center",
+                      "color": "#3A3A3A",
+                      "margin": "sm",
+                      "type": "text"
+                    },
+                    {
+                      "margin": "xs",
+                      "color": "#A8B49B",
+                      "type": "separator"
+                    },
+                    {
+                      "type": "text",
+                      "margin": "sm",
+                      "size": "xs",
+                      "color": "#3A3A3A",
+                      "text": "เมนูย่อย",
+                      "align": "center"
+                    },
+                    {
+                      "layout": "vertical",
+                      "backgroundColor": "#FFB4B4",
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "paddingAll": "12px",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "align": "center",
+                          "wrap": true,
+                          "text": "พิษและอาการเมื่อโดนต่อย",
+                          "weight": "bold",
+                          "color": "#3E3E3E"
+                        },
+                        {
+                          "style": "link",
+                          "type": "button",
+                          "action": {
+                            "text": "พิษและอาการเมื่อโดนต่อย",
+                            "type": "message",
+                            "label": "รายละเอียด"
+                          },
+                          "color": "#5A5A5A"
+                        }
+                      ]
+                    },
+                    {
+                      "contents": [
+                        {
+                          "align": "center",
+                          "wrap": true,
+                          "color": "#3E3E3E",
+                          "text": "การรักษาเมื่อโดนต่อย",
+                          "type": "text",
+                          "weight": "bold"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "label": "รายละเอียด",
+                            "text": "การรักษาเมื่อโดนต่อย",
+                            "type": "message"
+                          },
+                          "style": "link",
+                          "color": "#5A5A5A"
+                        }
+                      ],
+                      "cornerRadius": "16px",
+                      "type": "box",
+                      "layout": "vertical",
+                      "paddingAll": "12px",
+                      "backgroundColor": "#BBEAA6"
+                    }
+                  ],
+                  "type": "box",
+                  "spacing": "md",
+                  "layout": "vertical",
+                  "backgroundColor": "#ffffff"
+                },
+                "size": "mega"
+              },
+              "altText": "แมงป่องช้างอันตรายแค่ไหน",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

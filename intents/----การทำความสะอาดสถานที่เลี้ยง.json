@@ -1,0 +1,35 @@
+{
+  "id": "1259b67d-0400-4699-8b99-04641a26d963",
+  "name": "----การทำความสะอาดสถานที่เลี้ยง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "หมั่นทำความสะอาด วันละครั้ง เปลี่ยนน้ำในถาดวันละครั้ง เก็บชาก ตัวที่ตายแล้วทิ้งหรือตัวที่ตายแล้วสภาพยังดี มี อวัยวะครบ ก็นำมาสตั๊ฟท์ไว้ก็ได้ ผสมพันธุ์เสร็จแล้วต้องแยกตัวผู้ออกป้องกันไม่ให้ตัวเมียกิน"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

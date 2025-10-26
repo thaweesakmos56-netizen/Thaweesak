@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f23d374e-f0f0-4df5-9f61-12c6b6bc427e",
+    "data": [
+      {
+        "text": "แมวโดนต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "838e9be9-1683-4206-8f8a-8e9ecd4c9cd9",
+    "data": [
+      {
+        "text": "หมาโดนต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "8224277a-0982-40a6-911c-10b20a002a95",
+    "data": [
+      {
+        "text": "สัตว์โดนต่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

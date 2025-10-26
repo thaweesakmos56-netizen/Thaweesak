@@ -1,0 +1,164 @@
+{
+  "id": "cb263c2f-17c3-4af8-81d5-ec190a4d61b0",
+  "name": "----ราคาแมงป่อง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "type": "box",
+                  "contents": [
+                    {
+                      "align": "center",
+                      "color": "#996633",
+                      "type": "text",
+                      "size": "xl",
+                      "weight": "bold",
+                      "text": "ข้อมูลราคาแมงป่อง"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "text": "ราคาต่ำสุด (ตัวเล็ก / ซื้อเป็นกลุ่ม / ซื้อจากชาวบ้าน):",
+                      "color": "#333333",
+                      "wrap": true,
+                      "type": "text",
+                      "size": "md",
+                      "weight": "bold"
+                    },
+                    {
+                      "size": "lg",
+                      "color": "#996633",
+                      "weight": "bold",
+                      "text": "~ 15 บาท",
+                      "type": "text",
+                      "margin": "sm"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "size": "md",
+                      "color": "#333333",
+                      "text": "ราคากลาง / ตลาดทั่วไป:",
+                      "weight": "bold",
+                      "type": "text",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "size": "lg",
+                      "text": "60 – 150 บาท",
+                      "margin": "sm",
+                      "color": "#996633",
+                      "weight": "bold"
+                    },
+                    {
+                      "wrap": true,
+                      "size": "xs",
+                      "type": "text",
+                      "color": "#666666",
+                      "text": "หมายเหตุ: พบในตลาดแมงทอด / ตลาด “ของแปลก”"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "text": "ราคาสูงสุด / พิเศษ (ตัวใหญ่ / ตลาดนักเล่น / สายพันธุ์พิเศษ):",
+                      "type": "text",
+                      "color": "#333333",
+                      "size": "md",
+                      "wrap": true,
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "text",
+                      "text": "350 บาท",
+                      "color": "#996633",
+                      "size": "lg",
+                      "margin": "sm",
+                      "weight": "bold"
+                    },
+                    {
+                      "wrap": true,
+                      "type": "text",
+                      "text": "หมายเหตุ: พบในข่าวกรณีตลาดนักเล่นหรือของแปลก",
+                      "size": "xs",
+                      "color": "#666666"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "size": "md",
+                      "color": "#333333",
+                      "type": "text",
+                      "text": "การขายเป็นกิโลกรัม:",
+                      "wrap": true,
+                      "weight": "bold"
+                    },
+                    {
+                      "size": "lg",
+                      "margin": "sm",
+                      "type": "text",
+                      "weight": "bold",
+                      "text": "300-500 บาท / กก.",
+                      "color": "#996633"
+                    },
+                    {
+                      "type": "text",
+                      "size": "xs",
+                      "color": "#666666",
+                      "wrap": true,
+                      "text": "หมายเหตุ: พบในข่าวรับซื้อแมงป่องช้างเป็นกิโล"
+                    }
+                  ],
+                  "spacing": "md",
+                  "layout": "vertical"
+                }
+              },
+              "altText": "ข้อมูลราคาแมงป่อง"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

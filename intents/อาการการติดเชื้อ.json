@@ -1,0 +1,35 @@
+{
+  "id": "7b3906cf-635d-4b1e-bf88-2a2af9e704f4",
+  "name": "อาการการติดเชื้อ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "อาการที่พบบ่อยเวลาแมงป่องช้างติดเชื้อ  \n- เชื้อรา มีจุดขาว ๆ / ปุยขาว / ฝุ่นขาว เกาะตามขา, ปาก, ข้อปล้อง ตัวแมงป่องดูหมอง, เคลื่อนไหวน้อยลง ถ้าเชื้อราลาม อาจทำให้ตายได้\n- เชื้อแบคทีเรีย \nมี แผลพุพอง / หนอง / รอยดำ ตามลำตัว ข้อต่ออาจบวมแดง ตัวแมงป่องอาจไม่กินอาหาร นิ่งผิดปกติ บางครั้งมี กลิ่นเหม็น ออกมาจากตัว\n- ภาวะอ่อนแอร่วม  ไม่กินอาหารหลายวัน (ทั้งที่ปกติควรกิน) เดินช้า แขนขาอ่อนแรง ลอกคราบไม่สำเร็จง่ายขึ้น"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

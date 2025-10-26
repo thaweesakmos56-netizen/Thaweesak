@@ -1,0 +1,35 @@
+{
+  "id": "f1cfe749-be2a-48fc-be01-64cf7ebedc58",
+  "name": "แมงป่องซึมๆ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "อาจเกิดจากหลายสาเหตุ เช่น เครียด ขาดอาหาร ขาดน้ำ สถานที่เลี้ยงไม่เหมาะสม หรือป่วย โดยปกติแมงป่องช้างจะไม่ขยับตัวอยู่แล้ว แต่จะตอบสนองต่อสิ้งเร้า สิ่งกระตุ้น เช่น ขยับเมื่อถูกแตะ หรือชูก้าม/หางป้องกันตัว"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f6f467d7-967d-4e21-9f9c-9ef7391f1feb",
+    "data": [
+      {
+        "text": "แมงป่องช้างคืออะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "8163713e-45d6-4ae1-82fe-04e43bd10690",
+    "data": [
+      {
+        "text": "ชนิดแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "40a4ca4c-771c-4ca4-b531-ae891c150372",
+    "data": [
+      {
+        "text": "ที่อยู่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2c6e9abb-2f24-43ac-8fa9-8a4649de1df1",
+    "data": [
+      {
+        "text": "การจำแนกชีววิทยาแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

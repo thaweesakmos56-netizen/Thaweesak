@@ -1,0 +1,35 @@
+{
+  "id": "3a1e29ea-f156-4bc9-8ab1-1c7dbdb0c088",
+  "name": "แมงป่องกินอิ่ม",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "วิธีสังเกตว่าแมงป่องช้าง “อิ่ม”\n1. ไม่จับเหยื่อ / ไม่สนใจอาหาร ปกติแมงป่องหิวจะรีบใช้ก้ามจับทันที\n2. ถ้าเอาจิ้งหรีดหรือแมลงใส่ไป แล้วมันไม่สนใจหรือเดินหนี แสดงว่าอิ่มแล้ว\n3. พุงป่อง (Metasoma และส่วนท้องดูอิ่ม ๆ) ถ้าส่วนท้อง (opisthosoma) ขยาย อวบกลมกว่าปกติ แสดงว่าเพิ่งกินมาไม่นาน\n4. เคี้ยวแล้วทิ้ง (ไม่กินหมด) บางครั้งจะจับเหยื่อมากัด แต่ไม่ยอมกินต่อ แสดงว่าไม่หิวแล้ว\n5. ซ่อนตัวทันทีหลังได้อาหาร ถ้าเพิ่งกินเสร็จ มันจะกลับเข้าไปอยู่ในที่หลบซ่อนทันที ไม่ออกมาหาเหยื่ออีก"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

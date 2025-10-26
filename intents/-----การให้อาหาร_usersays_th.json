@@ -1,0 +1,119 @@
+[
+  {
+    "id": "86eb2c5d-3ed8-47ba-9e82-b2d1acee82ed",
+    "data": [
+      {
+        "text": "แมงป่องกิน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5a37eee9-adac-478a-81fd-8807a3069f36",
+    "data": [
+      {
+        "text": "แมงป่องกินอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c2413fcc-3f4a-4867-a3a2-87103016c47f",
+    "data": [
+      {
+        "text": "กินอะไรเป็นอาหาร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0a5842d4-a6e0-4360-9e39-b52a0e013807",
+    "data": [
+      {
+        "text": "กินอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "fd063098-2d99-4a2d-b758-4cb76fd93e05",
+    "data": [
+      {
+        "text": "การให้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ea55f4af-915d-4afe-ae77-007ebe0abbbb",
+    "data": [
+      {
+        "text": "การกิน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "976deb2d-1918-4da2-a36f-5927651c5c45",
+    "data": [
+      {
+        "text": "การกินอาหาร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f82d3e19-6b83-4a4e-85f4-08ba61421412",
+    "data": [
+      {
+        "text": "การให้อาหาร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "eebdc29e-1509-4085-924a-8be2eb16eed7",
+    "data": [
+      {
+        "text": "อาหาร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

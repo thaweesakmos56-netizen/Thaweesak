@@ -1,0 +1,35 @@
+{
+  "id": "53d77a7c-b66a-48a5-9360-d6f4ac60f8f6",
+  "name": "การดูแลทั่วไป",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การให้การดูแลทั่วไป:\n•\tการให้แมงป่องมีน้ำและอาหารที่เหมาะสมตามชนิดของมันก็เป็นสิ่งสำคัญเพื่อให้มันฟื้นตัวจากการเจ็บป่วย"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

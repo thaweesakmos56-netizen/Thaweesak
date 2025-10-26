@@ -1,0 +1,35 @@
+{
+  "id": "aad3d469-78f4-4f42-9e45-0e42dbd26b9e",
+  "name": "แมงป่องเครียด",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การรักษาภาวะเครียดหรือความผิดปกติจากสิ่งแวดล้อม:\n•\tแมงป่องต้องการสภาพแวดล้อมที่มีอุณหภูมิและความชื้นที่เหมาะสม ซึ่งควรปรับสภาพแวดล้อมให้เหมาะสม เช่นการรักษาความชื้นในกรงหรือถังเลี้ยง และให้แน่ใจว่าอุณหภูมิไม่สูงหรือต่ำเกินไป\n•\tหลีกเลี่ยงการสัมผัสหรือเคลื่อนย้ายแมงป่องบ่อยเกินไป เพราะอาจทำให้มันเครียด"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

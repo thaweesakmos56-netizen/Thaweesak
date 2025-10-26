@@ -1,0 +1,28 @@
+[
+  {
+    "id": "babe2883-79b2-4c58-ac27-9e912649ba94",
+    "data": [
+      {
+        "text": "สภาพที่อยู่ต้องเป็นประมาณไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "56e50f94-7741-49fe-b31c-19baac5b916b",
+    "data": [
+      {
+        "text": "สภาพที่อยู่ต้องเป็นแบบไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  }
+]

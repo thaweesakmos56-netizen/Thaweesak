@@ -1,0 +1,195 @@
+{
+  "id": "1b075081-8e8c-4cd6-a429-a3a37a5e4258",
+  "name": "----ปัญหาที่พบบ่อย",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "-followup-4",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "ปัญหาที่พบบ่อย",
+              "contents": {
+                "body": {
+                  "cornerRadius": "16px",
+                  "contents": [
+                    {
+                      "align": "center",
+                      "size": "xxl",
+                      "type": "text",
+                      "color": "#6D4C3F",
+                      "text": "ปัญหาที่พบบ่อย",
+                      "weight": "bold",
+                      "margin": "md"
+                    },
+                    {
+                      "margin": "sm",
+                      "text": "เมนูย่อย",
+                      "size": "md",
+                      "weight": "bold",
+                      "type": "text",
+                      "align": "center",
+                      "color": "#5A5A5A"
+                    },
+                    {
+                      "color": "#C8D1BB",
+                      "margin": "md",
+                      "type": "separator"
+                    },
+                    {
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "align": "center",
+                          "wrap": true,
+                          "weight": "bold",
+                          "text": "แมงป่องกินกันเอง",
+                          "color": "#000000",
+                          "type": "text"
+                        },
+                        {
+                          "action": {
+                            "label": "รายละเอียด",
+                            "text": "แมงป่องกินกันเอง",
+                            "type": "message"
+                          },
+                          "color": "#000000",
+                          "type": "button"
+                        }
+                      ],
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "backgroundColor": "#F3E4D2",
+                      "paddingAll": "12px"
+                    },
+                    {
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "contents": [
+                        {
+                          "align": "center",
+                          "weight": "bold",
+                          "color": "#3E3E3E",
+                          "wrap": true,
+                          "type": "text",
+                          "text": "แมงป่องกินลูกตัวเอง"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "text": "แมงป่องกินลูกตัวเอง",
+                            "type": "message",
+                            "label": "รายละเอียด"
+                          },
+                          "color": "#000000"
+                        }
+                      ],
+                      "backgroundColor": "#F2E9C7",
+                      "layout": "vertical",
+                      "paddingAll": "12px"
+                    },
+                    {
+                      "contents": [
+                        {
+                          "text": "การกินกันเองตอนกลางคืน",
+                          "type": "text",
+                          "weight": "bold",
+                          "align": "center",
+                          "wrap": true,
+                          "color": "#3E3E3E"
+                        },
+                        {
+                          "action": {
+                            "text": "การกินกันเองตอนกลางคืน",
+                            "label": "รายละเอียด",
+                            "type": "message"
+                          },
+                          "color": "#000000",
+                          "type": "button"
+                        }
+                      ],
+                      "paddingAll": "12px",
+                      "backgroundColor": "#D6DDC7",
+                      "cornerRadius": "16px",
+                      "layout": "vertical",
+                      "type": "box"
+                    },
+                    {
+                      "type": "box",
+                      "contents": [
+                        {
+                          "wrap": true,
+                          "weight": "bold",
+                          "text": "ลูกแมงป่องโตช้า",
+                          "color": "#3E3E3E",
+                          "type": "text",
+                          "align": "center"
+                        },
+                        {
+                          "action": {
+                            "type": "message",
+                            "label": "รายละเอียด",
+                            "text": "ลูกแมงป่องโตช้า"
+                          },
+                          "type": "button",
+                          "color": "#000000"
+                        }
+                      ],
+                      "cornerRadius": "16px",
+                      "paddingAll": "12px",
+                      "layout": "vertical",
+                      "backgroundColor": "#F4E1C2"
+                    }
+                  ],
+                  "layout": "vertical",
+                  "spacing": "md",
+                  "type": "box",
+                  "backgroundColor": "#ffffff",
+                  "paddingAll": "12px"
+                },
+                "size": "mega",
+                "type": "bubble"
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e1e44c1f-b43e-4c1c-a91f-cdf1b9c75cad",
+  "name": "ลูกแมงป่องโตช้า",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ปัญหาเนื่องมาจากลูกแมงป่องโตช้า เกินไป หลังแม่แมงป่องช้างออกลูก 15 วัน ลูกแมงป่องจะลงมา จากหลังแม่และลอกคราบ 1 ครั้ง หากินใกล้ๆ แม่ พออายุได้ 20 วันถึง1 เดือน ให้แยกแม่ออก พยายามให้กินอาหารทุกวันหรือวันเว้นวัน เมื่ออายุได้ 5 เดือน นำลูกแมงป่องทั้งหมดมาอนุบาลในบ่อรวมกันได้ อย่าให้ขาดน้ำ โดยถาดใส่ น้ำให้ใส่สำลีลงไปด้วย เพื่อป้องกันไม่ให้ลูกแมง ป่องจมน้ำตาย"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

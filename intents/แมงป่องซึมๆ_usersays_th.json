@@ -1,0 +1,67 @@
+[
+  {
+    "id": "45b65549-8206-4cd0-b795-84d764223aaf",
+    "data": [
+      {
+        "text": "นิ่ง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "eed993f5-bdfd-4832-9441-950c63065838",
+    "data": [
+      {
+        "text": "ซึม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0608cd66-dd30-40c3-8219-3949e3118235",
+    "data": [
+      {
+        "text": "แมงป่องนิ่ง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "bbade7c0-f01a-45f8-971a-c4f018a42cfd",
+    "data": [
+      {
+        "text": "แมงป่องไม่ขยับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ee11bb9e-71f6-4fd2-a82d-5417d4de5140",
+    "data": [
+      {
+        "text": "แมงป่องซึมๆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

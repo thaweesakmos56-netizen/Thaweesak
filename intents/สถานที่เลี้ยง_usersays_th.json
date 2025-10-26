@@ -1,0 +1,28 @@
+[
+  {
+    "id": "b35982b5-8124-4be6-b7ef-ed4262821b84",
+    "data": [
+      {
+        "text": "ที่เลี้ยงเป็นยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b7486a1d-4d24-4409-8cfa-25196030299c",
+    "data": [
+      {
+        "text": "สถานที่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

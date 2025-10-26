@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cbf7b223-b7ce-4263-84e2-79eb433c163b",
+    "data": [
+      {
+        "text": "ทำความสะอาด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dc87c865-ad31-4933-93e2-86dc55ade2ce",
+    "data": [
+      {
+        "text": "การทำความสะอาดสถานที่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

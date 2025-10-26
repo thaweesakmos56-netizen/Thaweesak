@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5e3f354c-8c02-4350-8edc-f3106ae23220",
+    "data": [
+      {
+        "text": "อุณหภูมิ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cd154530-7d44-4ea8-b2b6-3b0da8b5dfdc",
+    "data": [
+      {
+        "text": "กี่องศา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e72022e2-ef51-4da8-8ed9-921553cee317",
+    "data": [
+      {
+        "text": "อุณหภูมิเท่าไหร่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

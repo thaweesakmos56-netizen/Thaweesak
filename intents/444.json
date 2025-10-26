@@ -1,0 +1,167 @@
+{
+  "id": "87f61122-ab56-4ac1-bd87-7ab1db2fb48b",
+  "name": "444",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "ข้อมูลแมงป่องช้าง",
+              "type": "flex",
+              "contents": {
+                "body": {
+                  "spacing": "md",
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "backgroundColor": "#FFD9E8",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "แมงป่องช้าง กินลูกตัวเอง",
+                          "color": "#333333",
+                          "wrap": true,
+                          "weight": "bold",
+                          "align": "center"
+                        },
+                        {
+                          "action": {
+                            "text": "บอกข้อมูลเพิ่มเติมเรื่อง แมงป่องช้างกินลูกตัวเอง",
+                            "label": "รายละเอียด",
+                            "type": "message"
+                          },
+                          "color": "#333333",
+                          "style": "link",
+                          "type": "button"
+                        }
+                      ],
+                      "layout": "vertical",
+                      "paddingAll": "12px"
+                    },
+                    {
+                      "backgroundColor": "#CDE7FF",
+                      "layout": "vertical",
+                      "type": "box",
+                      "paddingAll": "12px",
+                      "contents": [
+                        {
+                          "align": "center",
+                          "color": "#333333",
+                          "type": "text",
+                          "wrap": true,
+                          "text": "พ่อ แม่พันธุ์ กินกันเอง",
+                          "weight": "bold"
+                        },
+                        {
+                          "color": "#333333",
+                          "style": "link",
+                          "action": {
+                            "type": "message",
+                            "label": "รายละเอียด",
+                            "text": "บอกข้อมูลเพิ่มเติมเรื่อง พ่อแม่พันธุ์กินกันเอง"
+                          },
+                          "type": "button"
+                        }
+                      ],
+                      "cornerRadius": "16px"
+                    },
+                    {
+                      "layout": "vertical",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "weight": "bold",
+                          "align": "center",
+                          "wrap": true,
+                          "text": "ลูกแมงป่องโตช้า",
+                          "color": "#333333"
+                        },
+                        {
+                          "type": "button",
+                          "style": "link",
+                          "action": {
+                            "label": "รายละเอียด",
+                            "type": "message",
+                            "text": "บอกข้อมูลเพิ่มเติมเรื่อง ลูกแมงป่องโตช้า"
+                          },
+                          "color": "#333333"
+                        }
+                      ],
+                      "paddingAll": "12px",
+                      "cornerRadius": "16px",
+                      "backgroundColor": "#FFF5BA"
+                    },
+                    {
+                      "cornerRadius": "16px",
+                      "layout": "vertical",
+                      "paddingAll": "12px",
+                      "backgroundColor": "#D7FFD9",
+                      "contents": [
+                        {
+                          "color": "#333333",
+                          "type": "text",
+                          "wrap": true,
+                          "weight": "bold",
+                          "align": "center",
+                          "text": "การกินกันเอง ตอนกลางคืน"
+                        },
+                        {
+                          "action": {
+                            "text": "บอกข้อมูลเพิ่มเติมเรื่อง การกินกันเองตอนกลางคืน",
+                            "type": "message",
+                            "label": "รายละเอียด"
+                          },
+                          "color": "#333333",
+                          "type": "button",
+                          "style": "link"
+                        }
+                      ],
+                      "type": "box"
+                    }
+                  ]
+                },
+                "type": "bubble"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

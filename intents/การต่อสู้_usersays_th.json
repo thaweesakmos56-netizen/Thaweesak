@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c75e7e03-600b-4e25-ae7a-d98364b46020",
+    "data": [
+      {
+        "text": "การจู่โจม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1a604ad9-14c0-4450-a0f6-30a406c29ed3",
+    "data": [
+      {
+        "text": "ต่อสู้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0ad8cbd8-268a-4f53-aaff-b7de4a92d3b1",
+    "data": [
+      {
+        "text": "การต่อสู้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

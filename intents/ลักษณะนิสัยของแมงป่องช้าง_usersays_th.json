@@ -1,0 +1,93 @@
+[
+  {
+    "id": "978b781a-4aa2-43a5-b2f3-770605aef965",
+    "data": [
+      {
+        "text": "นิสัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "da39ad48-2ffb-47b0-83d7-c18d032a0f24",
+    "data": [
+      {
+        "text": "นิสัยแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1def1682-0d1a-492d-a7d0-045abf63707a",
+    "data": [
+      {
+        "text": "นิสัยของแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3d6f3020-d011-448f-a486-cd81bad59051",
+    "data": [
+      {
+        "text": "นิสัยของแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dd015d8a-6f08-4d4a-82c3-bb280af57b8f",
+    "data": [
+      {
+        "text": "ลักษณะนิสัยของแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1178eada-7f8f-4322-b01b-ce0a88ac9c4c",
+    "data": [
+      {
+        "text": "นิสัยแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3a8c5c58-5c27-49b8-bec5-feb8a121d461",
+    "data": [
+      {
+        "text": "ลักษณะนิสัยของแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

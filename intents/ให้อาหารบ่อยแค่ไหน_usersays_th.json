@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cfe86dd2-d3ec-41f6-bc9e-ac5f5c0fac25",
+    "data": [
+      {
+        "text": "ให้อาหารช่วงไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d77c5c47-8f52-4789-857c-e8a18c0a75bd",
+    "data": [
+      {
+        "text": "ให้อาหารบ่อยแค่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

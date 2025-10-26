@@ -1,0 +1,41 @@
+[
+  {
+    "id": "55571462-685b-47ff-a4f8-3627e4b5b2e5",
+    "data": [
+      {
+        "text": "นิสัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "74ddb0e1-2b80-4255-9af4-61edfdb26425",
+    "data": [
+      {
+        "text": "นิสัยของแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1db723e9-8ac8-44b8-b95c-62879d7a482a",
+    "data": [
+      {
+        "text": "ลักษณะนิสัยแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

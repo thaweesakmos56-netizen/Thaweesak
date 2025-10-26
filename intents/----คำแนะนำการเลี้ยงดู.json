@@ -1,0 +1,190 @@
+{
+  "id": "f12629ed-5acd-465a-b64e-eccee947d26a",
+  "name": "----คำแนะนำการเลี้ยงดู",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "contents": [
+                    {
+                      "type": "text",
+                      "color": "#6D4C3F",
+                      "text": "คำแนะนำการเลี้ยงดู",
+                      "size": "xxl",
+                      "margin": "md",
+                      "align": "center",
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "text",
+                      "color": "#5A5A5A",
+                      "text": "เมนูย่อย",
+                      "align": "center",
+                      "margin": "sm",
+                      "weight": "bold",
+                      "size": "md"
+                    },
+                    {
+                      "type": "separator",
+                      "color": "#C8D1BB",
+                      "margin": "md"
+                    },
+                    {
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "color": "#000000",
+                          "type": "text",
+                          "weight": "bold",
+                          "align": "center",
+                          "wrap": true,
+                          "text": "การเตรียมพ่อแม่พันธุ์และที่เพาะเลี้ยง"
+                        },
+                        {
+                          "action": {
+                            "text": "การเตรียมพ่อแม่พันธุ์และที่เพาะเลี้ยง",
+                            "label": "รายละเอียด",
+                            "type": "message"
+                          },
+                          "color": "#000000",
+                          "type": "button"
+                        }
+                      ],
+                      "backgroundColor": "#F5F5DC",
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "paddingAll": "12px"
+                    },
+                    {
+                      "layout": "vertical",
+                      "backgroundColor": "#E0E8D7",
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "contents": [
+                        {
+                          "align": "center",
+                          "color": "#3E3E3E",
+                          "text": "การทำความสะอาดสถานที่เลี้ยง",
+                          "weight": "bold",
+                          "wrap": true,
+                          "type": "text"
+                        },
+                        {
+                          "action": {
+                            "label": "รายละเอียด",
+                            "type": "message",
+                            "text": "การทำความสะอาดสถานที่เลี้ยง"
+                          },
+                          "type": "button",
+                          "color": "#000000"
+                        }
+                      ],
+                      "paddingAll": "12px"
+                    },
+                    {
+                      "backgroundColor": "#D6DDC7",
+                      "layout": "vertical",
+                      "paddingAll": "12px",
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "contents": [
+                        {
+                          "weight": "bold",
+                          "text": "แยกแม่แมงป่องช้างออกเมื่อไหร่",
+                          "align": "center",
+                          "type": "text",
+                          "wrap": true,
+                          "color": "#3E3E3E"
+                        },
+                        {
+                          "action": {
+                            "label": "รายละเอียด",
+                            "type": "message",
+                            "text": "แยกแม่แมงป่องช้างออกเมื่อไหร่"
+                          },
+                          "color": "#000000",
+                          "type": "button"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "backgroundColor": "#CCE4BF",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "text": "การอนุบาลลูกแมงป่องช้าง",
+                          "align": "center",
+                          "color": "#3E3E3E",
+                          "type": "text",
+                          "weight": "bold",
+                          "wrap": true
+                        },
+                        {
+                          "action": {
+                            "text": "การอนุบาลลูกแมงป่องช้าง",
+                            "label": "รายละเอียด",
+                            "type": "message"
+                          },
+                          "color": "#000000",
+                          "type": "button"
+                        }
+                      ],
+                      "paddingAll": "12px",
+                      "cornerRadius": "16px"
+                    }
+                  ],
+                  "backgroundColor": "#ffffff",
+                  "type": "box",
+                  "paddingAll": "12px",
+                  "spacing": "md",
+                  "cornerRadius": "16px",
+                  "layout": "vertical"
+                },
+                "size": "mega"
+              },
+              "altText": "คำแนะนำการเลี้ยงดู",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

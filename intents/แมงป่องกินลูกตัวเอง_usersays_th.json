@@ -1,0 +1,67 @@
+[
+  {
+    "id": "4687fcb9-cde3-48c3-91d1-fe78effcc359",
+    "data": [
+      {
+        "text": "แมงป่องช้างกินบุตร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4ee17631-9bec-44e9-9590-06b102e769a9",
+    "data": [
+      {
+        "text": "แมงป่องช้างกินลูกของตน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d1b26590-19f0-4074-a4a6-ce2344bdbaa6",
+    "data": [
+      {
+        "text": "แมงป่องช้างโจมตีลูกตัวเอง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "fd8e0688-b48e-4ebc-af50-c733421e3c83",
+    "data": [
+      {
+        "text": "แมงป่องช้างทำร้ายลูก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6302a6be-92e2-4c7f-a71e-1b813835ec53",
+    "data": [
+      {
+        "text": "แมงป่องช้างกินลูกตัวเอง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

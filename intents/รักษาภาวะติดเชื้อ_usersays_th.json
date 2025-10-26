@@ -1,0 +1,28 @@
+[
+  {
+    "id": "442c2e74-53f9-4a21-81db-04cc951a7b40",
+    "data": [
+      {
+        "text": "แมงป่องติดเชื้อ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4bc564cf-87af-4ffe-a831-77ace97c69a6",
+    "data": [
+      {
+        "text": "รักษาภาวะติดเชื้อ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

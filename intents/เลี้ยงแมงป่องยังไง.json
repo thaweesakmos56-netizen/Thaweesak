@@ -1,0 +1,35 @@
+{
+  "id": "ea57336e-fd3c-416b-9a88-6d7ff9ed55e9",
+  "name": "เลี้ยงแมงป่องยังไง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การเลี้ยงแมงป่องช้างหลักๆ การเตรียมแมงป่องช้าง ศึกษาลักษณะโดยรวม เตรียมสถานที่ สภาพแวดล้อม อาหาร น้ำ อุปกรณ์ป้องกันอันตราย เช่น ที่คีป และข้อควรระวังต่างๆ ซึ่งในแชทบอทนี้มีความรู้ทั้งหมดนี้อยู่ถามมาได้เลยครับ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

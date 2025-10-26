@@ -1,0 +1,28 @@
+[
+  {
+    "id": "506ad469-f868-4bf0-ad7c-12cd80f9a524",
+    "data": [
+      {
+        "text": "แมงป่องอิ่ม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "429db71e-28b7-4060-9720-abc5034d3094",
+    "data": [
+      {
+        "text": "จะรู้ได้ยังไงว่าแมงป่องอิ่ม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

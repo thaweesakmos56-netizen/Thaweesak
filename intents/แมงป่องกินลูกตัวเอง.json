@@ -1,0 +1,35 @@
+{
+  "id": "8c890104-d20c-4717-bf0a-c14790a06ba2",
+  "name": "แมงป่องกินลูกตัวเอง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "แมงป่องกินลูกตัวเอง เกิดจากแม่แมง ป้องเครียด หิว หรืออาหารไม่พอกิน ให้รีบแยก แม่แมงป่องออก แล้วค่อยๆจับลูกแมงป่องไปฝาก แม่อื่นเลี้ยงแทน ค่อยวางบนหลังด้วยความระวัง เพราะช่วงนี้แม่แมงป่องจะดุมาก"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

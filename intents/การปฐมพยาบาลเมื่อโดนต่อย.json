@@ -1,0 +1,35 @@
+{
+  "id": "0650dcf9-b4f9-46c1-9927-740afae993ea",
+  "name": "การปฐมพยาบาลเมื่อโดนต่อย",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ส่วนใหญ่แล้ว มนุษย์เราสามารถทนพิษ แมงป่องช้างได้ แต่ถ้าปวดมากควรทานยา “พา ราเซตามอล” เพื่อเป็นการแก้ปวดและใช้ผ้าหรือเชือกรัดเหนือแผล เอาน้ำแข็งประคบปากแผลไว้ จนกว่าอาการบวมจะบรรเทาลง"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

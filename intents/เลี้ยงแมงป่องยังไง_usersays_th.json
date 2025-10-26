@@ -1,0 +1,28 @@
+[
+  {
+    "id": "8eb1b1e2-70b3-4e18-abcf-b683ec6e7b00",
+    "data": [
+      {
+        "text": "เลี้ยงแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c2ccf197-9247-4b27-bcfe-3601df049a0f",
+    "data": [
+      {
+        "text": "เลี้ยงแมงป่องยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

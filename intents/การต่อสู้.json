@@ -1,0 +1,35 @@
+{
+  "id": "a4906d1f-ef35-4ecb-b1ee-c21c02e62a57",
+  "name": "การต่อสู้",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ลักษณะการต่อสู้และการทําร้ายศัตรู\nหางจะชูขึ้นสุด ชูก้าม หันหน้าเข้าหา ศัตรู ปลายหางจะงอ เพื่อเตรียมต่อยไปข้างหน้า ถ้าเหยื่อหรือศัตรูไม่นิ่งจะใช้ก้ามใหญ่ที่แข็งแรง หนีบไว้ก่อน แล้วค่อยต่อยอย่างรวดเร็วซ้ำหลายๆ ครั้งจนเหยื่อหรือศัตรูนั้นตาย"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

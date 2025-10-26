@@ -1,0 +1,47 @@
+{
+  "id": "0063a16d-4157-43b0-9434-8c8e93d68931",
+  "name": "----การอนุบาลลูกแมงป่องช้าง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/linebot-5fcfa.firebasestorage.app/o/mom2.jpg?alt\u003dmedia\u0026token\u003d737a6465-88e1-4d48-b816-a9052dbbd77d",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "แยกลูกไปเลี้ยงในบ่ออนุบาลในบ่อปูนโดยนำลูกหลายๆแม่มาเลี้ยงรวมกันได้ 15 วัน เอาลูกจิ้งหรีดหรือแมลงตัวเล็กๆให้กินก่อน ประมาณ 8-12 เดือนก็สามารถนำแมงป่องมา ทอดขายได้ หรือนำไปใช้เป็นยารักษาโรคต่าง ๆ ได้เช่นกัน\n🦂🫡"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

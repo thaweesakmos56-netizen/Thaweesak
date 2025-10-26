@@ -1,0 +1,130 @@
+{
+  "id": "13d45391-98ef-4851-87d5-c0ba0c766c6b",
+  "parentId": "3dafbbb1-fda4-468d-ab6b-346acb9e8d99",
+  "rootParentId": "4d5baa7d-468a-438a-98be-31ca1accace5",
+  "name": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง - yes - 6เลี้ยงไว้เพื่อการส่งออก",
+  "auto": true,
+  "contexts": [
+    "-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-yes.-yes-custom-6",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "size": "mega",
+                "body": {
+                  "backgroundColor": "#F5E8D0",
+                  "contents": [
+                    {
+                      "align": "center",
+                      "type": "text",
+                      "weight": "bold",
+                      "color": "#6D4C3F",
+                      "text": "เลี้ยงไว้เพื่อส่งออก",
+                      "size": "xxl"
+                    },
+                    {
+                      "color": "#feecc7",
+                      "type": "separator",
+                      "margin": "lg"
+                    },
+                    {
+                      "type": "box",
+                      "cornerRadius": "lg",
+                      "layout": "vertical",
+                      "backgroundColor": "#FFFFFF",
+                      "contents": [
+                        {
+                          "color": "#111111",
+                          "size": "sm",
+                          "wrap": true,
+                          "type": "text",
+                          "text": "การเลี้ยงเพื่อการส่งออกในต่างประเทศ โดยเฉพาะจีนและญี่ปุ่น มีความเชื่อว่าแมงป่องมีสรรพคุณทางยาสำหรับบำรุงร่างกายและรักษาโรคต่าง ๆ รวมทั้งช่วยเสริมสมรรถภาพทางเพศ จึงมีการบริโภคแมงป่องอย่างแพร่หลาย โดยนิยมรับประทานสดหลังจากนำเหล็กในออกแล้ว"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "color": "#6D4C3F",
+                          "text": "ศักยภาพทางการตลาด :",
+                          "size": "md",
+                          "weight": "bold",
+                          "margin": "md",
+                          "type": "text"
+                        },
+                        {
+                          "size": "sm",
+                          "color": "#111111",
+                          "text": " หากมีการพัฒนาตลาดและรวมกลุ่มผู้เลี้ยง แมงป่องอาจกลายเป็นสัตว์เศรษฐกิจที่มีมูลค่าเพิ่มสูง ทั้งในเชิงอาหาร ยาสมุนไพร และของที่ระลึก",
+                          "margin": "md",
+                          "wrap": true,
+                          "type": "text"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "lg",
+                          "color": "#feecc7"
+                        },
+                        {
+                          "size": "md",
+                          "margin": "md",
+                          "color": "#6D4C3F",
+                          "weight": "bold",
+                          "type": "text",
+                          "text": "ข้อควรพิจารณา :"
+                        },
+                        {
+                          "size": "sm",
+                          "color": "#111111",
+                          "text": " การส่งออกต้องเป็นไปตามข้อกำหนดทางกฎหมายที่เกี่ยวข้องกับพันธุ์สัตว์และการค้าระหว่างประเทศ จึงควรตรวจสอบข้อบังคับก่อนดำเนินการ",
+                          "wrap": true,
+                          "margin": "md",
+                          "type": "text"
+                        }
+                      ],
+                      "margin": "md",
+                      "paddingAll": "25px",
+                      "spacing": "sm"
+                    }
+                  ],
+                  "layout": "vertical",
+                  "type": "box",
+                  "paddingAll": "20px"
+                }
+              },
+              "altText": "เลี้ยงไว้เพื่อส่งออก",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

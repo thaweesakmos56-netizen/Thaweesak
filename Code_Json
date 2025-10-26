@@ -1,0 +1,217 @@
+//////////////////////////////////////////////////////////แยกส่วน///////////////////////////////////////////////
+{
+  "line": {
+    "altText": "เลี้ยงไว้ทำไม?",
+    "type": "flex",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "size": "lg",
+            "text": "เลี้ยงไว้ทำไม?",
+            "type": "text",
+            "align": "center",
+            "color": "#333333",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#BBBBBB",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "contents": [
+              {
+                "wrap": true,
+                "text": "เลี้ยงไว้ดูเล่น",
+                "align": "center",
+                "color": "#333333",
+                "weight": "bold",
+                "type": "text"
+              },
+              {
+                "color": "#333333",
+                "style": "link",
+                "type": "button",
+                "action": {
+                  "label": "รายละเอียด",
+                  "text": "เลี้ยงไว้ดูเล่น",
+                  "type": "message"
+                }
+              }
+            ],
+            "cornerRadius": "16px",
+            "layout": "vertical",
+            "backgroundColor": "#FFD9E8",
+            "paddingAll": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "cornerRadius": "16px",
+            "contents": [
+              {
+                "color": "#333333",
+                "text": "เลี้ยงไว้กิน",
+                "align": "center",
+                "wrap": true,
+                "type": "text",
+                "weight": "bold"
+              },
+              {
+                "type": "button",
+                "style": "link",
+                "action": {
+                  "text": "เลี้ยงไว้กิน",
+                  "type": "message",
+                  "label": "รายละเอียด"
+                },
+                "color": "#333333"
+              }
+            ],
+            "paddingAll": "12px",
+            "backgroundColor": "#CDE7FF"
+          },
+          {
+            "contents": [
+              {
+                "wrap": true,
+                "weight": "bold",
+                "color": "#333333",
+                "align": "center",
+                "type": "text",
+                "text": "เลี้ยงไว้กำจัดซากจิ้งหรีด"
+              },
+              {
+                "color": "#333333",
+                "type": "button",
+                "style": "link",
+                "action": {
+                  "type": "message",
+                  "text": "เลี้ยงไว้กำจัดซากจิ้งหรีด",
+                  "label": "รายละเอียด"
+                }
+              }
+            ],
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#FFF5BA",
+            "cornerRadius": "16px",
+            "paddingAll": "12px"
+          },
+          {
+            "backgroundColor": "#D7FFD9",
+            "contents": [
+              {
+                "weight": "bold",
+                "color": "#333333",
+                "wrap": true,
+                "align": "center",
+                "text": "เลี้ยงไว้ส่งตลาด",
+                "type": "text"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "label": "รายละเอียด",
+                  "text": "เลี้ยงไว้ส่งตลาด",
+                  "type": "message"
+                },
+                "style": "link",
+                "color": "#333333"
+              }
+            ],
+            "type": "box",
+            "paddingAll": "12px",
+            "cornerRadius": "16px",
+            "layout": "vertical"
+          },
+          {
+            "type": "box",
+            "contents": [
+              {
+                "wrap": true,
+                "align": "center",
+                "text": "เลี้ยงไว้สตั๊ฟฟ์เมื่อตาย",
+                "color": "#333333",
+                "type": "text",
+                "weight": "bold"
+              },
+              {
+                "style": "link",
+                "type": "button",
+                "color": "#333333",
+                "action": {
+                  "type": "message",
+                  "label": "รายละเอียด",
+                  "text": "เลี้ยงไว้สตั๊ฟฟ์เมื่อตาย"
+                }
+              }
+            ],
+            "backgroundColor": "#EAD9FF",
+            "paddingAll": "12px",
+            "cornerRadius": "16px",
+            "layout": "vertical"
+          },
+          {
+            "cornerRadius": "16px",
+            "type": "box",
+            "paddingAll": "12px",
+            "backgroundColor": "#FFC9DE",
+            "contents": [
+              {
+                "color": "#333333",
+                "weight": "bold",
+                "text": "เลี้ยงไว้เพื่อการส่งออก",
+                "type": "text",
+                "align": "center",
+                "wrap": true
+              },
+              {
+                "action": {
+                  "text": "เลี้ยงไว้เพื่อการส่งออก",
+                  "type": "message",
+                  "label": "รายละเอียด"
+                },
+                "style": "link",
+                "type": "button",
+                "color": "#333333"
+              }
+            ],
+            "layout": "vertical"
+          }
+        ],
+        "type": "box"
+      }
+    }
+  }
+}
+//////////////////////////////////////////////////////////////////////////////////////แยกส่วน//////////
+{
+  "line": {
+    "type": "template",
+    "altText": "คุณบังเอิญถูกแมงป่องช้างต่อยหรือไม่?",
+    "template": {
+      "title": "คำถาม",
+      "text": "คุณบังเอิญถูกแมงป่องช้างต่อยหรือไม่?",
+      "type": "buttons",
+      "actions": [
+        {
+          "text": "ใช่",
+          "label": "ใช่",
+          "type": "message"
+        },
+        {
+          "label": "ไม่ใช่",
+          "text": "ไม่ใช่",
+          "type": "message"
+        }
+      ]
+    }
+  }
+}
+/////////////////////////////////////////////////////////////////////////////////////////แยกส่วน//////////////////////

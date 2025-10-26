@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d99f0a09-2533-472b-a751-dd96016ccdf3",
+    "data": [
+      {
+        "text": "ติดตัว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "74bf757b-0a7e-43b7-8667-7d4e1b8c4786",
+    "data": [
+      {
+        "text": "ติดตัวแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0261a4c6-0033-4df1-9c56-2301869ab29d",
+    "data": [
+      {
+        "text": "มีอะไรเกาะแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c627d410-b906-4704-a050-489e9c1cd013",
+    "data": [
+      {
+        "text": "ปรสิต",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

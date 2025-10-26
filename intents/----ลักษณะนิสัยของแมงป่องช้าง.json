@@ -1,0 +1,70 @@
+{
+  "id": "92abb20c-3832-476e-803c-62636666c9d7",
+  "name": "----ลักษณะนิสัยของแมงป่องช้าง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "type": "box",
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "type": "text",
+                      "align": "center",
+                      "text": "ลักษณะนิสัยของแมงป่องช้าง",
+                      "size": "lg",
+                      "color": "#996633"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "size": "md",
+                      "text": "ลักษณะนิสัยของแมงป่องช้างโดยปกติจะไม่ค่อยดุร้าย นอกจากว่ามันถูกบุกรุกหรือถูกทำร้ายก่อนเท่านั้น เป็นสัตว์หากินในเวลากลางคืน ส่วนกลางวันจะหลบนอนพักผ่อนเพราะมองไม่ค่อยเห็น ชอบอากาศร้อนชื้น อุณหภูมิประมาณ 20-30 องศาเซลเซียส แมงป่องจัดเป็นพวก กินกันเอง (Cani balism) หรือแม้แต่แม่แมงป่องเองก็ยังกินลูกตัวเอง และหลังผสมพันธุ์ “ตัวเมียจะกินตัวผู้” เป็นอาหารถ้าอาหารไม่เพียงพอ",
+                      "wrap": true,
+                      "color": "#333333",
+                      "type": "text"
+                    }
+                  ],
+                  "spacing": "md",
+                  "layout": "vertical"
+                }
+              },
+              "type": "flex",
+              "altText": "ลักษณะนิสัยของแมงป่องช้าง"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

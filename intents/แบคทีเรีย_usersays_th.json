@@ -1,0 +1,54 @@
+[
+  {
+    "id": "46da1eae-1054-488e-ae0a-6ce3d2766c3e",
+    "data": [
+      {
+        "text": "แบคทีเรีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2538e2b9-d780-4790-975a-637ac23c6bcd",
+    "data": [
+      {
+        "text": "ตัวผิดปกติ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "56de6703-4e39-414d-adf4-48c494f8ddac",
+    "data": [
+      {
+        "text": "ตัวมีแผล",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "22d977a4-a75c-4ba8-877a-6d82cb2c5d57",
+    "data": [
+      {
+        "text": "ขามีแผล",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

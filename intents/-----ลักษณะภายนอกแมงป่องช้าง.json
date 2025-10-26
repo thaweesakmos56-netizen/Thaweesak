@@ -1,0 +1,79 @@
+{
+  "id": "0c2fbdc0-5fb4-4501-a925-afeb59170fdc",
+  "name": "-----ลักษณะภายนอกแมงป่องช้าง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "ลักษณะภายนอกแมงป่องช้าง",
+              "contents": {
+                "body": {
+                  "contents": [
+                    {
+                      "text": "ลักษณะภายนอกแมงป่องช้าง",
+                      "type": "text",
+                      "color": "#996633",
+                      "align": "center",
+                      "size": "lg",
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "color": "#333333",
+                      "type": "text",
+                      "wrap": true,
+                      "size": "md",
+                      "text": "แมงป่องช้าง (Scorpion) เป็นสัตว์มีพิษมี รูปร่างคล้ายปู ตัวสีดำสนิท ลำตัวยาวเป็นปล้องๆประมาณ 2-10 เซนติเมตร มีก้ามคล้ายก้ามปู 1 คู่ และลำตัวติดกันมีขาเป็นปล้องๆ 4 คู่ติดอยู่ท้องส่วนหน้ามี 7 ปล้อง ส่วนหลังมี 5 ปล้องแคบหรือที่เรียกว่า หาง และที ปลายหางเป็นเหล็กในโค้งแหลมมีพิษ"
+                    }
+                  ],
+                  "spacing": "md",
+                  "layout": "vertical",
+                  "type": "box"
+                },
+                "type": "bubble"
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/linebot-5fcfa.firebasestorage.app/o/Asian_Forest_Scorpion_(Heterometrus_spinifer)_(7802916532).jpg?alt\u003dmedia\u0026token\u003d87dd970d-e2fc-413d-afa2-52d41247b85c",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

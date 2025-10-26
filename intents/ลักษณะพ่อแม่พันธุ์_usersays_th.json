@@ -1,0 +1,28 @@
+[
+  {
+    "id": "85f3774b-d605-49cd-995b-7473f95e229a",
+    "data": [
+      {
+        "text": "ลักษณะพ่อ แม่พันธุ์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "74c09171-aace-4f84-80b6-59ecd11165fe",
+    "data": [
+      {
+        "text": "ลักษณะพ่อแม่พันธุ์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

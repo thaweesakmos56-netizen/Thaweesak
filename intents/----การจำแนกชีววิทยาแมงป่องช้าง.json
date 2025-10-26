@@ -1,0 +1,70 @@
+{
+  "id": "e0e68c80-b92f-4e82-b128-40a4c577f1bc",
+  "name": "----การจำแนกชีววิทยาแมงป่องช้าง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "contents": [
+                    {
+                      "color": "#996633",
+                      "align": "center",
+                      "type": "text",
+                      "size": "lg",
+                      "text": "การจำแนกชีววิทยาแมงป่องช้าง",
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "color": "#333333",
+                      "text": "แมงป่องจัดอยู่ ในประเภทสัตว์ไม่มีกระดูกสันหลัง อยู่ในไฟลัม Arthropoda คลาส Scorpionida เป็นสัตว์มีพิษที่ มีมาตั้งแต่ยุคดึกดำบรรพ์ ยืนยันได้จากการค้น พบฟอสซิลของแมงป่องที่มีอายุถึง 440 ล้านปี เช่น Archaeobuthus estephani หรือ Protoi schnurus axelrodorum เป็นต้น นอกจากนี้ยังมีแมงป่องที่อยู่ในวงศ์ Buthi-dae สกุล Isometrus พบตามบ้านเรือน มักมีสี น้ำตาลอ่อน แล้วมีลายดำหรือน้ำตาลคาดจึงเรียกว่า Striped scorpion ขนาดไม่เกิน 5 เซนติ เมตร เรียกทั่วไปว่า “แมงป่องเล็ก” หรือ “แมง งอด” ในภาษาอีสาน ทั่วไปว่า แมงป่องเล็ก หรือ แมงงอด ในภาษาอีสาน พฤติกรรมส่วนหนึ่งที่ทำให้แมงป่องดู ลึกลับ ก็เพราะมันเป็นสัตว์ที่ไม่ชอบแสงสว่าง มักจะหลบซ่อนตัวอยู่ตามสถานที่มืดและชิ้น เช่น ใต้ก้อนหิน ใต้กองไม้ ได้ใบไม้ หรือขุดโพรงหรือรูอยู่ตามป่าละเมาะ และออกหากินในเวลากลาง คืน จนบางคนตั้งสมญามันว่า เพชฌฆาตยาม ราตรี",
+                      "type": "text",
+                      "wrap": true,
+                      "size": "md"
+                    }
+                  ],
+                  "spacing": "md",
+                  "layout": "vertical",
+                  "type": "box"
+                }
+              },
+              "type": "flex",
+              "altText": "การจำแนกชีววิทยาแมงป่องช้าง"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "be23c548-7b86-4ff3-9ddb-32827fb09252",
+  "name": "----สถานที่พบเจอแมงป่องทั่วโลก",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "contents": [
+                    {
+                      "type": "text",
+                      "color": "#996633",
+                      "text": "สถานที่พบเจอแมงป่องทั่วโลก",
+                      "weight": "bold",
+                      "size": "lg",
+                      "align": "center"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "text": "ประเทศไทย :",
+                      "weight": "bold",
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#996633",
+                      "size": "md"
+                    },
+                    {
+                      "size": "md",
+                      "color": "#333333",
+                      "type": "text",
+                      "text": "พบได้ตาม ป่าเบญจพรรณ ป่าดิบแล้ง ป่าดิบชื้น และตามซากไม้ผุ โคนต้นไม้ กองหิน พบบ่อยใน ภาคเหนือ ภาคตะวันออกเฉียงเหนือ และภาคใต้ แถบที่เป็น ภูเขา / ป่าเขตร้อน จะมีโอกาสเจอมากกว่าพื้นที่โล่ง",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "size": "md",
+                      "color": "#996633",
+                      "text": "ประเทศอื่น ๆ ในเอเชีย :",
+                      "weight": "bold"
+                    },
+                    {
+                      "wrap": true,
+                      "size": "md",
+                      "type": "text",
+                      "color": "#333333",
+                      "text": "อินเดีย ศรีลังกา พม่า ลาว กัมพูชา เวียดนาม มาเลเซียอินโดนีเซีย (บางเกาะ เช่น สุมาตรา, ชวา, บอร์เนียว)กระจายอยู่ทั่วไป"
+                    }
+                  ],
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "md"
+                }
+              },
+              "type": "flex",
+              "altText": "สถานที่พบเจอแมงป่องทั่วโลก"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

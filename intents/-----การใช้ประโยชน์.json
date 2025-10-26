@@ -1,0 +1,101 @@
+{
+  "id": "a5d0f490-ea2c-4157-9e04-5c9910a28c7b",
+  "name": "-----การใช้ประโยชน์",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "------followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "การใช้ประโยชน์",
+              "contents": {
+                "body": {
+                  "type": "box",
+                  "spacing": "md",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "size": "lg",
+                      "weight": "bold",
+                      "type": "text",
+                      "color": "#996633",
+                      "text": "การใช้ประโยชน์",
+                      "align": "center"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "color": "#333333",
+                      "wrap": true,
+                      "type": "text",
+                      "size": "md",
+                      "text": "ชาวจีนนิยมนำ มาปิ้งหรือย่าง กินแล้วช่วยขับลม หรือช่วยขับพิษ อื่นๆ ทำให้เลือดลมดี และใช้แมงป่องอบแห้ง รักษาโรคหลายชนิด เช่น บาดทะยัก เก๊าท์ หลอดเลือดแดงอักเสบ เป็นต้น ในประเทศไทย ใช้ดองเหล้ากิน บรรเทาอาการอัมพฤกษ์ อัมพาตปัจจุบันทั่วโลกมีแมงป่องประมาณ 1,200 ชนิด"
+                    }
+                  ]
+                },
+                "type": "bubble"
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "template",
+              "template": {
+                "type": "buttons",
+                "title": "คำถาม",
+                "text": "ต้องการรายชื่อยาสมุนไพรจีนหรือไม่?",
+                "actions": [
+                  {
+                    "type": "message",
+                    "text": "ใช่",
+                    "label": "ใช่"
+                  }
+                ]
+              },
+              "altText": "ต้องการรายชื่อยาสมุนไพรจีนหรือไม่?"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

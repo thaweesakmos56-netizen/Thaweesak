@@ -1,0 +1,246 @@
+{
+  "id": "6755f749-b2f3-4daf-8ee6-bc48d4ae517e",
+  "name": "1----รู้จักแมงป่องช้าง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "text": "รู้จักแมงป่องช้าง",
+                      "margin": "md",
+                      "weight": "bold",
+                      "type": "text",
+                      "color": "#5B4636",
+                      "size": "xxl",
+                      "align": "center"
+                    },
+                    {
+                      "text": "เมนูย่อย",
+                      "align": "center",
+                      "color": "#3A3A3A",
+                      "weight": "bold",
+                      "type": "text",
+                      "margin": "sm",
+                      "size": "md"
+                    },
+                    {
+                      "margin": "md",
+                      "color": "#C5BFAF",
+                      "type": "separator"
+                    },
+                    {
+                      "cornerRadius": "16px",
+                      "paddingAll": "12px",
+                      "backgroundColor": "#FFEFD5",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "weight": "bold",
+                          "align": "center",
+                          "color": "#3B2E1E",
+                          "wrap": true,
+                          "type": "text",
+                          "text": "ลักษณะภายนอกแมงป่องช้าง"
+                        },
+                        {
+                          "style": "link",
+                          "type": "button",
+                          "color": "#6E5A43",
+                          "action": {
+                            "text": "ลักษณะภายนอกแมงป่องช้าง",
+                            "type": "message",
+                            "label": "รายละเอียด"
+                          }
+                        }
+                      ],
+                      "type": "box"
+                    },
+                    {
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "weight": "bold",
+                          "align": "center",
+                          "color": "#3E3E3E",
+                          "type": "text",
+                          "text": "ลักษณะนิสัยแมงป่องช้าง",
+                          "wrap": true
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "label": "รายละเอียด",
+                            "text": "ลักษณะนิสัยแมงป่องช้าง",
+                            "type": "message"
+                          },
+                          "color": "#6E5A43",
+                          "style": "link"
+                        }
+                      ],
+                      "backgroundColor": "#F1E9D2",
+                      "cornerRadius": "16px",
+                      "type": "box",
+                      "paddingAll": "12px"
+                    },
+                    {
+                      "type": "box",
+                      "cornerRadius": "16px",
+                      "contents": [
+                        {
+                          "weight": "bold",
+                          "text": "การจำแนกชีววิทยาแมงป่องช้าง",
+                          "align": "center",
+                          "wrap": true,
+                          "type": "text",
+                          "color": "#3B3B3B"
+                        },
+                        {
+                          "type": "button",
+                          "style": "link",
+                          "color": "#5C4B3B",
+                          "action": {
+                            "label": "รายละเอียด",
+                            "type": "message",
+                            "text": "การจำแนกชีววิทยาแมงป่องช้าง"
+                          }
+                        }
+                      ],
+                      "backgroundColor": "#E5E4D7",
+                      "paddingAll": "12px",
+                      "layout": "vertical"
+                    },
+                    {
+                      "cornerRadius": "16px",
+                      "type": "box",
+                      "backgroundColor": "#E9E2C8",
+                      "paddingAll": "12px",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "wrap": true,
+                          "text": "การใช้ประโยชน์",
+                          "weight": "bold",
+                          "color": "#3E3E3E",
+                          "type": "text",
+                          "align": "center"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "message",
+                            "text": "การใช้ประโยชน์",
+                            "label": "รายละเอียด"
+                          },
+                          "color": "#5C4B3B",
+                          "style": "link"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "paddingAll": "12px",
+                      "backgroundColor": "#DDE8D1",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "wrap": true,
+                          "align": "center",
+                          "color": "#2F3D2F",
+                          "text": "สถานที่พบเจอแมงป่องทั่วโลก",
+                          "type": "text",
+                          "weight": "bold"
+                        },
+                        {
+                          "style": "link",
+                          "type": "button",
+                          "color": "#435841",
+                          "action": {
+                            "label": "รายละเอียด",
+                            "type": "message",
+                            "text": "สถานที่พบเจอแมงป่องทั่วโลก"
+                          }
+                        }
+                      ],
+                      "cornerRadius": "16px"
+                    },
+                    {
+                      "type": "box",
+                      "contents": [
+                        {
+                          "wrap": true,
+                          "align": "center",
+                          "color": "#3E3E3E",
+                          "weight": "bold",
+                          "text": "ความพิเศษของแมงป่องช้าง",
+                          "type": "text"
+                        },
+                        {
+                          "style": "link",
+                          "color": "#6E5A43",
+                          "action": {
+                            "label": "รายละเอียด",
+                            "type": "message",
+                            "text": "ความพิเศษของแมงป่องช้าง"
+                          },
+                          "type": "button"
+                        }
+                      ],
+                      "cornerRadius": "16px",
+                      "paddingAll": "12px",
+                      "backgroundColor": "#F5EFD7",
+                      "layout": "vertical"
+                    }
+                  ],
+                  "spacing": "md",
+                  "backgroundColor": "#FFFFFF",
+                  "type": "box"
+                },
+                "size": "mega"
+              },
+              "type": "flex",
+              "altText": "รู้จักแมงป่องช้าง"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

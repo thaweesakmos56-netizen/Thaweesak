@@ -1,0 +1,125 @@
+{
+  "id": "0b67d121-4128-481d-a161-d84018870425",
+  "name": "2บริการที่1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "template": {
+                "columns": [
+                  {
+                    "thumbnailImageUrl": "https://via.placeholder.com/400x200/FF5733/FFFFFF?text\u003dบริการที่+1",
+                    "text": "ข้อมูลเกี่ยวกับบริการแรกของเรา",
+                    "imageBackgroundColor": "#FF5733",
+                    "title": "บริการที่ 1",
+                    "actions": [
+                      {
+                        "type": "message",
+                        "label": "ดูรายละเอียด",
+                        "text": "ดูรายละเอียดบริการ 1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "บริการที่ 2",
+                    "imageBackgroundColor": "#33FF57",
+                    "thumbnailImageUrl": "https://via.placeholder.com/400x200/33FF57/FFFFFF?text\u003dบริการที่+2",
+                    "actions": [
+                      {
+                        "text": "ดูรายละเอียดบริการ 2",
+                        "label": "ดูรายละเอียด",
+                        "type": "message"
+                      }
+                    ],
+                    "text": "ข้อมูลเกี่ยวกับบริการที่สองของเรา"
+                  },
+                  {
+                    "imageBackgroundColor": "#3357FF",
+                    "text": "ข้อมูลเกี่ยวกับบริการที่สามของเรา",
+                    "thumbnailImageUrl": "https://via.placeholder.com/400x200/3357FF/FFFFFF?text\u003dบริการที่+3",
+                    "actions": [
+                      {
+                        "type": "message",
+                        "text": "ดูรายละเอียดบริการ 3",
+                        "label": "ดูรายละเอียด"
+                      }
+                    ],
+                    "title": "บริการที่ 3"
+                  },
+                  {
+                    "text": "ข้อมูลเกี่ยวกับบริการที่สี่ของเรา",
+                    "title": "บริการที่ 4",
+                    "actions": [
+                      {
+                        "type": "message",
+                        "text": "ดูรายละเอียดบริการ 4",
+                        "label": "ดูรายละเอียด"
+                      }
+                    ],
+                    "imageBackgroundColor": "#FF33CC",
+                    "thumbnailImageUrl": "https://via.placeholder.com/400x200/FF33CC/FFFFFF?text\u003dบริการที่+4"
+                  },
+                  {
+                    "text": "ข้อมูลเกี่ยวกับบริการที่ห้าของเรา",
+                    "imageBackgroundColor": "#FFFF33",
+                    "actions": [
+                      {
+                        "text": "ดูรายละเอียดบริการ 5",
+                        "label": "ดูรายละเอียด",
+                        "type": "message"
+                      }
+                    ],
+                    "title": "บริการที่ 5",
+                    "thumbnailImageUrl": "https://via.placeholder.com/400x200/FFFF33/333333?text\u003dบริการที่+5"
+                  },
+                  {
+                    "imageBackgroundColor": "#33FFFF",
+                    "text": "หากมีข้อสงสัย โปรดติดต่อ",
+                    "thumbnailImageUrl": "https://via.placeholder.com/400x200/33FFFF/333333?text\u003dติดต่อเรา",
+                    "title": "ติดต่อเรา",
+                    "actions": [
+                      {
+                        "label": "ติดต่อ",
+                        "text": "ติดต่อ",
+                        "type": "message"
+                      }
+                    ]
+                  }
+                ],
+                "type": "carousel"
+              },
+              "type": "template",
+              "altText": "เลือกบริการของคุณ"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

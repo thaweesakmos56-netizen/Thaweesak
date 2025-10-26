@@ -1,0 +1,147 @@
+{
+  "id": "6eed57fb-458c-468c-8cda-a55f31cf9ef9",
+  "parentId": "3dafbbb1-fda4-468d-ab6b-346acb9e8d99",
+  "rootParentId": "4d5baa7d-468a-438a-98be-31ca1accace5",
+  "name": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง - yes - custom-5",
+  "auto": true,
+  "contexts": [
+    "-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-yes.-yes-custom-5",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "การเลี้ยงไว้สตัฟฟ์เมื่อตาย",
+              "contents": {
+                "body": {
+                  "backgroundColor": "#F5E8D0",
+                  "paddingAll": "20px",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "weight": "bold",
+                      "color": "#6D4C3F",
+                      "text": "เลี้ยงไว้สตัฟฟ์เมื่อตาย",
+                      "size": "xl",
+                      "align": "center"
+                    },
+                    {
+                      "margin": "lg",
+                      "color": "#EED9B9",
+                      "type": "separator"
+                    },
+                    {
+                      "paddingAll": "20px",
+                      "contents": [
+                        {
+                          "size": "sm",
+                          "color": "#111111",
+                          "type": "text",
+                          "text": "การเลี้ยงเพื่อนำไปสตัฟฟ์ (หลังตาย) แมงป่องที่ตายแล้วสามารถนำมาใช้ประโยชน์ได้โดยการสตัฟฟ์ เพื่อจำหน่ายเป็นของที่ระลึกหรือของขวัญ ซึ่งมีมูลค่าทางการตลาด",
+                          "wrap": true
+                        },
+                        {
+                          "margin": "md",
+                          "type": "separator"
+                        },
+                        {
+                          "color": "#6D4C3F",
+                          "text": "อุปกรณ์ที่ใช้ :",
+                          "size": "md",
+                          "type": "text",
+                          "weight": "bold",
+                          "margin": "md"
+                        },
+                        {
+                          "color": "#111111",
+                          "type": "text",
+                          "wrap": true,
+                          "text": "โฟม เข็มหมุด น้ำยาฟอร์มาลีน หลอดไฟ 100 วัตต์ และกล่องลังกระดาษ",
+                          "size": "sm",
+                          "margin": "md"
+                        },
+                        {
+                          "margin": "md",
+                          "type": "separator"
+                        },
+                        {
+                          "color": "#6D4C3F",
+                          "weight": "bold",
+                          "margin": "md",
+                          "type": "text",
+                          "size": "md",
+                          "text": "ขั้นตอนหลัก :"
+                        },
+                        {
+                          "margin": "md",
+                          "color": "#111111",
+                          "size": "sm",
+                          "text": "ทำความสะอาดแมงป่อง จัดท่าบนโฟม ใช้เข็มหมุดตรึง จากนั้นฉีดฟอร์มาลีนและอบด้วยหลอดไฟจนแห้งสนิท ก่อนนำไปเคลือบแลกเกอร์และบรรจุกล่อง",
+                          "type": "text",
+                          "wrap": true
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "type": "text",
+                          "color": "#6D4C3F",
+                          "size": "md",
+                          "text": "จุดเด่น : ",
+                          "margin": "md",
+                          "weight": "bold"
+                        },
+                        {
+                          "margin": "md",
+                          "color": "#111111",
+                          "type": "text",
+                          "wrap": true,
+                          "text": "สามารถทำเป็นของฝากโดยเฉพาะสำหรับผู้ที่เกิดในราศีพิจิก เนื่องจากแมงป่องเป็นสัญลักษณ์ประจำราศีดังกล่าว",
+                          "size": "sm"
+                        }
+                      ],
+                      "layout": "vertical",
+                      "cornerRadius": "16px",
+                      "type": "box",
+                      "backgroundColor": "#FFFFFF"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "size": "mega",
+                "type": "bubble"
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

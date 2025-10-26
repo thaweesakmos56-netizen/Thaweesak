@@ -1,0 +1,117 @@
+{
+  "id": "65286592-3c96-4702-be6c-b3a02dbb9479",
+  "parentId": "3dafbbb1-fda4-468d-ab6b-346acb9e8d99",
+  "rootParentId": "4d5baa7d-468a-438a-98be-31ca1accace5",
+  "name": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง - yes - custom-2",
+  "auto": true,
+  "contexts": [
+    "-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-yes.-yes-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "body": {
+                  "type": "box",
+                  "contents": [
+                    {
+                      "text": "การเลี้ยงไว้กิน",
+                      "weight": "bold",
+                      "type": "text",
+                      "align": "center",
+                      "color": "#6D4C3F",
+                      "size": "xxl"
+                    },
+                    {
+                      "margin": "lg",
+                      "type": "separator",
+                      "color": "#feecc7"
+                    },
+                    {
+                      "layout": "vertical",
+                      "type": "box",
+                      "cornerRadius": "lg",
+                      "spacing": "sm",
+                      "paddingAll": "25px",
+                      "backgroundColor": "#FFFFFF",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "text": "การเลี้ยงเพื่อการบริโภค : ",
+                          "margin": "md",
+                          "weight": "bold",
+                          "size": "md",
+                          "type": "text",
+                          "color": "#6D4C3F"
+                        },
+                        {
+                          "type": "text",
+                          "color": "#111111",
+                          "text": "การเลี้ยงเพื่อการบริโภคภายในครอบครัวการเลี้ยงแมงป่องเพื่อการรับประทาน เหมาะสำหรับผู้ที่ต้องการทดลองใช้แมงป่องเป็นอาหารเสริมในการบำรุงร่างกาย สามารถปรุงโดยวิธีปิ้ง ทอด หรือย่าง รับประทานวันละ 1 ตัว ผู้ที่มีปัญหาสุขภาพบางประการอาจได้รับประโยชน์จากการบริโภค",
+                          "size": "sm",
+                          "wrap": true
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "weight": "bold",
+                          "text": "วิธีการเลี้ยง : ",
+                          "margin": "md",
+                          "type": "text",
+                          "color": "#6D4C3F",
+                          "size": "md"
+                        },
+                        {
+                          "color": "#111111",
+                          "size": "sm",
+                          "wrap": true,
+                          "type": "text",
+                          "margin": "md",
+                          "text": "ควรเลี้ยงจำนวน 30–50 ตัวในบ่อปูนขนาดเส้นผ่านศูนย์กลาง 80 เซนติเมตร ให้อาหารวันเว้นวัน โดยใช้อาหารจำพวกจิ้งหรีด แมลงต่าง ๆ หนอนนก ตั๊กแตน เศษเนื้อสับ หรือไข่ไก่ ทั้งนี้หากมีอาหารเหลือ ควรลดปริมาณลงเพื่อป้องกันการสะสม"
+                        }
+                      ]
+                    }
+                  ],
+                  "paddingAll": "20px",
+                  "layout": "vertical",
+                  "backgroundColor": "#F5E8D0"
+                },
+                "type": "bubble",
+                "size": "mega"
+              },
+              "type": "flex",
+              "altText": "การเลี้ยงไว้กิน"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

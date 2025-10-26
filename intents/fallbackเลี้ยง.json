@@ -1,0 +1,35 @@
+{
+  "id": "7e084f23-7c91-4f06-a84f-225ad728e0b0",
+  "name": "fallbackเลี้ยง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "\"กรุณาระบุคำถามให้ชัดเจนและเกี่ยวข้องกับการดูแลแมงป่องช้างค่ะ\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "aeac3367-0d8c-4ee9-ad36-1cc1fd95d05d",
+  "name": "ให้อาหารบ่อยแค่ไหน",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ให้อาหารตอนเย็น วันเว้นวัน และหมั่นทำความสะอาดที่เลี้ยง"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

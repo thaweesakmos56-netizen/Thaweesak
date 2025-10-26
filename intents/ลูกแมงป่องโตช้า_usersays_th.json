@@ -1,0 +1,54 @@
+[
+  {
+    "id": "03fecabb-9703-4a19-91f9-1360e165aeae",
+    "data": [
+      {
+        "text": "ลูกแมงป่องตัวเล็ก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "9737db93-c237-4ba1-9fd6-99b7a9f0036b",
+    "data": [
+      {
+        "text": "ไม่โตสักที",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "31dd1008-05e9-4d6f-83e1-a3f05447489d",
+    "data": [
+      {
+        "text": "ลูกโตช้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0733245e-a991-4c89-a385-ef1cc14cabb0",
+    "data": [
+      {
+        "text": "ลูกแมงป่องโตช้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

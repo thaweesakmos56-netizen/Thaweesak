@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1a349e9f-6594-4b96-af2c-2e70a7e4c213",
+    "data": [
+      {
+        "text": "อายุเฉลี่ย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5ccb2926-cca8-4703-b5ba-659915b4c54c",
+    "data": [
+      {
+        "text": "แมงป่องช้างมีอายุเท่าไหร่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "59832c92-3454-4601-b0e5-ca2b72e0bed4",
+    "data": [
+      {
+        "text": "แมงป่องมีอายุกี่ปี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "435f81af-d06e-4ef5-8cb6-6bde1ea60f8c",
+    "data": [
+      {
+        "text": "อายุแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7826e4d2-9f25-45bd-9d22-eec626c9e995",
+    "data": [
+      {
+        "text": "อายุขัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "af7d15be-3780-4fc0-add7-2d1453d93c41",
+    "data": [
+      {
+        "text": "อายุ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

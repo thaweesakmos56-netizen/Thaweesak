@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9c7b2eee-2dd7-48cb-92f9-81cd0a5376a2",
+    "data": [
+      {
+        "text": "อาการเมื่อติดเชื้อ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "42d3a82b-baa1-4198-988d-09be93437548",
+    "data": [
+      {
+        "text": "จะรู้ได้อย่างไรว่าติดเชื้อ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

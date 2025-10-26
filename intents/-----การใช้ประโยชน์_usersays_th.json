@@ -1,0 +1,41 @@
+[
+  {
+    "id": "06566b53-fa28-4371-ac07-b07e4e32c01a",
+    "data": [
+      {
+        "text": "ประโยชน์ของแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e2b70751-dda9-49de-bd4a-472e55a345db",
+    "data": [
+      {
+        "text": "แมงป่องมีประโยชน์อะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "fdc38335-4372-445b-8d6e-e09b53e92bb6",
+    "data": [
+      {
+        "text": "การใช้ประโยชน์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

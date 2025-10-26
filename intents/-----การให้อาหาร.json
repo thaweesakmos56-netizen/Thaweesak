@@ -1,0 +1,80 @@
+{
+  "id": "39741f2e-9790-4c3a-bc40-ec8d4e301250",
+  "name": "-----การให้อาหาร",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "color": "#996633",
+                      "type": "text",
+                      "size": "xl",
+                      "align": "center",
+                      "weight": "bold",
+                      "text": "การให้อาหาร"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "wrap": true,
+                      "type": "text",
+                      "color": "#333333",
+                      "size": "md",
+                      "text": "อาหารของแมงป่องช้าง ได้แก่พวกสัตว์ตัวเล็กๆ เช่น แมงมุม บึง กิ้งกือ ลูกหนู หนอน ตั๊กแตน จิ้งหรีด และแมลงอื่นๆ มันจะกินขณะที่เหยื่อยังไม่ตายหรือขัดขืน  พอต่อยไปแล้วเหยื่อไม่มีแรงดิ้นหรือตาย แล้วแมงป่องจึงค่อยๆ ป้อน เหยื่อเข้าปาก โดยจะมีก้ามเล็กๆ 1 คู่เป็นที่ตัด อาหารออกเป็นชิ้นเล็ก ๆ ก่อนที่จะป้อนเข้าไปในช่องปาก"
+                    }
+                  ],
+                  "spacing": "md",
+                  "type": "box"
+                }
+              },
+              "altText": "การให้อาหาร"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/linebot-5fcfa.firebasestorage.app/o/maxresdefault.jpg?alt\u003dmedia\u0026token\u003d3e988ae2-8670-4aa2-a54c-14df20286d7b",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

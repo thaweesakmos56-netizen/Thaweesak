@@ -1,0 +1,67 @@
+{
+  "id": "01ede136-ed2f-4f7f-8a17-b60e57f90913",
+  "name": "เมนูแชท",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "...": {
+              "…": "…"
+            },
+            "general": {
+              "title": "ข้อมูลทั่วไปเกี่ยวกับแมงป่องช้าง",
+              "examples": [
+                "แมงป่องช้างอาศัยในป่าดงดิบ",
+                "ขนาดลำตัว 9–12 ซม."
+              ],
+              "description": "แมงป่องช้าง (Heterometrus spp.) เป็นแมงป่องขนาดใหญ่..."
+            },
+            "feeding": {
+              "frequency": "2–3 ครั้งต่อสัปดาห์",
+              "title": "การให้อาหาร",
+              "description": "อาหารหลักคือจิ้งหรีด หนอนแมลงวัน และหนูเล็ก..."
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "text": "*พิษและการปฐมพยาบาล*\n\nพิษประกอบด้วยโปรตีนหลายชนิด มีฤทธิ์ทำให้ปวดบวม...\n\nปฐมพยาบาลเมื่อถูกต่อย:\n• ประคบน้ำแข็งเหนือบริเวณที่ถูกต่อย\n• ทานพาราเซตามอลแก้ปวด",
+              "type": "text"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

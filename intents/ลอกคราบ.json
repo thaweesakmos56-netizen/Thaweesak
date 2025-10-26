@@ -1,0 +1,47 @@
+{
+  "id": "4b95eaff-e446-4117-9018-ed0e6c58ba22",
+  "name": "ลอกคราบ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/linebot-5fcfa.firebasestorage.app/o/7%20step.jpg?alt\u003dmedia\u0026token\u003dd021a6c0-66e8-4289-893e-da6c16e42a34",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ช่วงเวลาในการลอกคราบ 1-3เดือน 1ครั้ง  ตามความพร้อมของแมงป่องช้าง ช่วงนั้นจะอ่อนแออย่างมาก"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

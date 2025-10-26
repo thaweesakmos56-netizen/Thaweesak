@@ -1,0 +1,35 @@
+{
+  "id": "60ebcb60-22f1-49f1-9637-a66d3eb3e677",
+  "name": "การกินกันเองตอนกลางคืน",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การกินกันเองในตอนกลางคืน เนื่อง จากอาหารไม่พอกิน เครียดเนื่องจากอยู่กันหนา แน่นเกินไป ควรให้อาหารและน้ำอย่าง เพียงพอ ถ้ามีแมงป่องมากเกินไปให้แยกไปเลี้ยง บ่อใหม่"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cf6fdfe3-754c-467e-8ac5-42e4ff4de02f",
+  "name": "การรักษาแผลจากการกัดจากแมงป่องตัวอื่น",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การเลี้ยงรวมกันอาจทำให้เกิดการทำร้ายกันได้ปกติ การรักษาแผลจากการถูกกัดจากแมงป่องตัวอื่น:\n•\t หากแมงป่องมีบาดแผลจากการกัดหรือการทำร้ายจากแมงป่องตัวอื่น ควรทำการรักษาแผลโดยการล้างแผลด้วยน้ำเกลือและการใช้ยาฆ่าเชื้อที่เหมาะสม\n•\tหากมีบาดแผลลึกหรือไม่หาย ควรพามันไปหาสัตวแพทย์เพื่อการรักษาที่ถูกต้อง"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f284e81d-8158-4dae-af96-152080a0d967",
+  "name": "พ่อแม่กินกันเอง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การกินกันเอง หลังผสมพันธุ์เสร็จตัวเมียมักจะกินตัวผู้ ให้สังเกตว่าถ้ามีการต่อสู้ กันโดยทั้ง 2 ตัวพยายามใช้ทางต่อยกัน ให้รีบ แยกออกทันที"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

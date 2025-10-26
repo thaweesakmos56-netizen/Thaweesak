@@ -1,0 +1,123 @@
+{
+  "id": "c9570767-0c2b-48c0-a549-baa01d7266ea",
+  "parentId": "3dafbbb1-fda4-468d-ab6b-346acb9e8d99",
+  "rootParentId": "4d5baa7d-468a-438a-98be-31ca1accace5",
+  "name": "การเตรียมพ่อพันธุ์แม่พันธุ์และที่เพาะเลี้ยง - yes - 5เลี้ยงไว้ส่งตลาด",
+  "auto": true,
+  "contexts": [
+    "-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-yes.-yes-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "การเลี้ยงส่งตลาด",
+              "contents": {
+                "body": {
+                  "type": "box",
+                  "contents": [
+                    {
+                      "align": "center",
+                      "size": "xxl",
+                      "color": "#6D4C3F",
+                      "text": "การเลี้ยงส่งตลาด",
+                      "type": "text",
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "separator",
+                      "color": "#feecc7",
+                      "margin": "lg"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "margin": "md",
+                      "paddingAll": "25px",
+                      "spacing": "sm",
+                      "cornerRadius": "lg",
+                      "backgroundColor": "#FFFFFF",
+                      "contents": [
+                        {
+                          "text": "การเลี้ยงเพื่อจำหน่าย :",
+                          "size": "md",
+                          "color": "#6D4C3F",
+                          "margin": "md",
+                          "weight": "bold",
+                          "type": "text"
+                        },
+                        {
+                          "color": "#111111",
+                          "type": "text",
+                          "wrap": true,
+                          "size": "sm",
+                          "text": "การเลี้ยงเพื่อจำหน่ายในเชิงพาณิชย์ (ทอดขาย)สามารถนำแมงป่องไปทอดจำหน่ายเช่นเดียวกับจิ้งหรีดทอด ซึ่งผู้บริโภคอาจได้รับประโยชน์เชิงสุขภาพเพิ่มเติมจากการรับประทานแมงป่อง หากผู้ขายติดป้ายแสดงข้อมูลเกี่ยวกับสรรพคุณของแมงป่อง ก็จะช่วยเพิ่มความน่าสนใจและสร้างความเชื่อมั่นให้กับลูกค้า"
+                        }
+                      ]
+                    }
+                  ],
+                  "layout": "vertical",
+                  "backgroundColor": "#F5E8D0",
+                  "paddingAll": "20px"
+                },
+                "type": "bubble",
+                "size": "mega"
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "template": {
+                "text": "คุณอยากทราบราคาตลาดไหม?",
+                "title": "คำถาม",
+                "type": "buttons",
+                "actions": [
+                  {
+                    "text": "ราคาแมงป่องช้าง",
+                    "label": "ใช่",
+                    "type": "message"
+                  }
+                ]
+              },
+              "type": "template",
+              "altText": "คุณอยากทราบราคาตลาดไหม?"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

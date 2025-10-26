@@ -1,0 +1,199 @@
+{
+  "id": "db1b66f4-68df-4214-8c75-8c5d30899dde",
+  "parentId": "d7b9d51e-63c5-453a-83ec-68f07e648e9b",
+  "rootParentId": "d7b9d51e-63c5-453a-83ec-68f07e648e9b",
+  "name": "สุขภาพแมงป่อง - วิธีการรักษาโรคเบื้องต้น",
+  "auto": true,
+  "contexts": [
+    "-followup-3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "size": "mega",
+                "body": {
+                  "contents": [
+                    {
+                      "text": "วิธีการรักษาโรคเบื้องต้น",
+                      "align": "center",
+                      "type": "text",
+                      "size": "xl",
+                      "color": "#6D4C3F",
+                      "weight": "bold"
+                    },
+                    {
+                      "type": "box",
+                      "contents": [
+                        {
+                          "size": "sm",
+                          "wrap": true,
+                          "text": "(1) การรักษาภาวะติดเชื้อ:",
+                          "type": "text",
+                          "color": "#111111"
+                        },
+                        {
+                          "wrap": true,
+                          "size": "sm",
+                          "text": "• หากแมงป่องมีการติดเชื้อจากแบคทีเรียหรือเชื้อรา อาจต้องใช้ยาปฏิชีวนะหรือยาต้านเชื้อรา ซึ่งจะต้องเป็นการรักษาที่ได้จากสัตวแพทย์ที่มีความชำนาญในด้านสัตว์ป่า หรือแมงป่อง",
+                          "type": "text",
+                          "color": "#111111"
+                        },
+                        {
+                          "wrap": true,
+                          "size": "sm",
+                          "type": "text",
+                          "text": "• การทำความสะอาดแผลหรือจุดที่ติดเชื้อเป็นสิ่งสำคัญ เช่น ใช้น้ำเกลือหรือน้ำยาฆ่าเชื้อที่ปลอดภัยเพื่อทำความสะอาดแผล",
+                          "color": "#111111"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "(2) การรักษาภาวะเครียดหรือความผิดปกติจากสิ่งแวดล้อม:",
+                          "wrap": true,
+                          "margin": "md",
+                          "color": "#111111",
+                          "size": "sm"
+                        },
+                        {
+                          "text": "• แมงป่องต้องการสภาพแวดล้อมที่มีอุณหภูมิและความชื้นที่เหมาะสม ซึ่งควรปรับสภาพแวดล้อมให้เหมาะสม เช่นการรักษาความชื้นในกรงหรือถังเลี้ยง และให้แน่ใจว่าอุณหภูมิไม่สูงหรือต่ำเกินไป",
+                          "wrap": true,
+                          "color": "#111111",
+                          "type": "text",
+                          "size": "sm"
+                        },
+                        {
+                          "wrap": true,
+                          "color": "#111111",
+                          "size": "sm",
+                          "type": "text",
+                          "text": "• หลีกเลี่ยงการสัมผัสหรือเคลื่อนย้ายแมงป่องบ่อยเกินไป เพราะอาจทำให้มันเครียด"
+                        },
+                        {
+                          "margin": "md",
+                          "type": "separator"
+                        },
+                        {
+                          "wrap": true,
+                          "size": "sm",
+                          "text": "(3) การรักษาจากการถูกทำลายจากปรสิต:",
+                          "color": "#111111",
+                          "type": "text"
+                        },
+                        {
+                          "size": "sm",
+                          "color": "#111111",
+                          "text": "• หากแมงป่องมีปรสิตภายในร่างกาย อาจต้องใช้ยารักษาพยาธิหรือยาฆ่าปรสิต ซึ่งจะต้องได้รับคำแนะนำจากสัตวแพทย์",
+                          "type": "text",
+                          "wrap": true
+                        },
+                        {
+                          "text": "• ควรตรวจสอบแมงป่องอย่างสม่ำเสมอเพื่อหาปรสิตและรักษาโดยการทำความสะอาดร่างกายของมัน",
+                          "wrap": true,
+                          "size": "sm",
+                          "color": "#111111",
+                          "type": "text"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "text": "(4) การรักษาแผลจากการถูกกัดจากแมงป่องตัวอื่น:",
+                          "size": "sm",
+                          "color": "#111111",
+                          "wrap": true,
+                          "type": "text"
+                        },
+                        {
+                          "size": "sm",
+                          "wrap": true,
+                          "text": "•  หากแมงป่องมีบาดแผลจากการกัดหรือการทำร้ายจากแมงป่องตัวอื่น ควรทำการรักษาแผลโดยการล้างแผลด้วยน้ำเกลือและการใช้ยาฆ่าเชื้อที่เหมาะสม",
+                          "type": "text",
+                          "color": "#111111"
+                        },
+                        {
+                          "size": "sm",
+                          "type": "text",
+                          "text": "• หากมีบาดแผลลึกหรือไม่หาย ควรพามันไปหาสัตวแพทย์เพื่อการรักษาที่ถูกต้อง",
+                          "wrap": true,
+                          "color": "#111111"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        },
+                        {
+                          "wrap": true,
+                          "size": "sm",
+                          "text": "(5) การให้การดูแลทั่วไป:",
+                          "type": "text",
+                          "color": "#111111"
+                        },
+                        {
+                          "text": "• การให้แมงป่องมีน้ำและอาหารที่เหมาะสมตามชนิดของมันก็เป็นสิ่งสำคัญเพื่อให้มันฟื้นตัวจากการเจ็บป่วย",
+                          "type": "text",
+                          "wrap": true,
+                          "size": "sm",
+                          "color": "#111111"
+                        },
+                        {
+                          "type": "text",
+                          "color": "#111111",
+                          "text": "• การตรวจสอบแมงป่องอย่างสม่ำเสมอเพื่อหาสัญญาณของโรคหรือปัญหาทางสุขภาพ",
+                          "wrap": true,
+                          "size": "sm"
+                        }
+                      ],
+                      "cornerRadius": "lg",
+                      "margin": "md",
+                      "layout": "vertical",
+                      "spacing": "sm",
+                      "paddingAll": "25px",
+                      "backgroundColor": "#FFFFFF"
+                    }
+                  ],
+                  "paddingAll": "20px",
+                  "type": "box",
+                  "backgroundColor": "#E7CBA8",
+                  "layout": "vertical"
+                },
+                "type": "bubble"
+              },
+              "altText": "วิธีการรักษาโรคเบื้องต้น",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

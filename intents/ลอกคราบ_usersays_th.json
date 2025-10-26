@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6d999e8-27fd-46b4-930f-b650062e74f9",
+    "data": [
+      {
+        "text": "เวลานานแค่ไหนลอกคราบ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b2e82cb0-4b8e-4e1c-9ad5-b86146b7b798",
+    "data": [
+      {
+        "text": "ลอกคราบบ่อยแค่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1ea65fd6-2417-4cfa-8770-76b40d59590c",
+    "data": [
+      {
+        "text": "ลอกคราบ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

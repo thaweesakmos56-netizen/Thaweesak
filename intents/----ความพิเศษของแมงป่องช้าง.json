@@ -1,0 +1,79 @@
+{
+  "id": "f74f8180-4ef4-4b7f-a0c7-b4bc4a9e0d7d",
+  "name": "----ความพิเศษของแมงป่องช้าง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "ความพิเศษของแมงป่องช้าง",
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "spacing": "md",
+                  "layout": "vertical",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "text": "ความพิเศษของแมงป่องช้าง",
+                      "align": "center",
+                      "color": "#996633",
+                      "type": "text",
+                      "weight": "bold",
+                      "size": "lg"
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "size": "md",
+                      "wrap": true,
+                      "color": "#333333",
+                      "type": "text",
+                      "text": "คนทั่วไปจะเห็นเปลือกสีดำทะมึน หากนำแมงป่องช้างไปไว้ภายใต้แสงอุลตราไวโอเล็ต เปลือกสีดำจะกลายเป็นสีเขียวเรืองแสงเปล่งประกาย ยิ่งหากมองดูพร้อมกันหลายตัวก็ยิ่งเห็นเป็นสีเขียวเลื่อมพรายสวยงามถึงแม้แมงป่องตายไปนานคุณสมบัติเรืองแสงนี้ก็ยังคงอยู่จากฟอสซิลแมงป่องอายุหลายร้อยปีพบว่า แม้ว่าเปลือกจะไม่คงรูปร่างแล้วแต่สารเรื่องแสงยังคงฝังตัวติดกับหินฟอสซิลกระทั่งปัจจุบันยังไม่มีผู้ใดทราบแน่ชัดว่าแมงป้องมีคุณสมบัติการเรืองแสงแปลกประหลาดนี้ไปเพื่อประโยชน์อันใด"
+                    }
+                  ]
+                }
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/linebot-5fcfa.firebasestorage.app/o/20190311-5c862bd1cab6e.jpg?alt\u003dmedia\u0026token\u003dcce56d77-d95c-4a4d-a6c3-8f7f021af6d5",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

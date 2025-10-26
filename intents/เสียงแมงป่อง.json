@@ -1,0 +1,35 @@
+{
+  "id": "6f39dacb-57b6-48f4-a942-8c136fa1a6c4",
+  "name": "เสียงแมงป่อง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "แมงป่องช้าง ไม่มีอวัยวะสร้างเสียงเหมือนจิ้งหรีดหรือตั๊กแตน จึง ไม่สามารถส่งเสียงร้องออกมา"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "8638175d-ce3f-4fa6-ab2c-c306e7d21e42",
+  "name": "----แยกแม่แมงป่องช้างตอนไหน",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/linebot-5fcfa.firebasestorage.app/o/133953427.jpg?alt\u003dmedia\u0026token\u003d3ffabeb4-7d84-4fc2-a4ba-8cfda7db5ae1",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "เมื่อถึงเดือนเมษายนของทุกปี ควรแยกแมงป่องออกไปเลี้ยงเดี่ยวๆ เพื่อเตรียมคลอดลูกต่อไป ควรใช้กล่องหรือปิ๊บขนมปัง หรือกล่องพลาสติกเจาะรูที่ฝา 5-10 รู เพื่อระบายอากาศ ใส่ถาดน้ำโดยใส่สำลีลงไปด้วยเวลาคลอดลูกลูกแมงป่องจะได้ไม่จมน้ำตาย เมื่อลูกแมงป่องอายุได้ 1 เดือน ให้แยกแม่ออกโดยใช้ที่คีบจับห้ามจับด้วยมือเปล่า"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

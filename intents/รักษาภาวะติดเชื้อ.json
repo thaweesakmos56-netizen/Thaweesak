@@ -1,0 +1,35 @@
+{
+  "id": "0dc92448-0c3e-4867-80a6-c6a89ff7415c",
+  "name": "รักษาภาวะติดเชื้อ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "การรักษาภาวะติดเชื้อ:\n•\tหากแมงป่องมีการติดเชื้อจากแบคทีเรียหรือเชื้อรา อาจต้องใช้ยาปฏิชีวนะหรือยาต้านเชื้อรา ซึ่งจะต้องเป็นการรักษาที่ได้จากสัตวแพทย์ที่มีความชำนาญในด้านสัตว์ป่า หรือแมงป่อง\n•\tการทำความสะอาดแผลหรือจุดที่ติดเชื้อเป็นสิ่งสำคัญ เช่น ใช้น้ำเกลือหรือน้ำยาฆ่าเชื้อที่ปลอดภัยเพื่อทำความสะอาดแผล"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "87a4db60-3808-4082-9be5-5359fab30479",
+  "name": "ความปลอดภัยในการเลี้ยง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "ปกติแมงป่องช้างจะไม่ดุ และจะอยู่นิ่งๆไม่ก้าวร้าวถ้าเราไม่เข้าไปยุ่งไปวุ้นวายมาก ความปลอยภัยในการเลี้ยงควรใช้ที่คีปในการจับ ห้ามจับโดยมือเปล่าเด็ดขาด ระวังก้าม และหาง ของแมงป่องช้าง ก้ามมีความแข็งแรงมาก และหางสามารถต่อยและปล่อยพิษทำให้บาดเจ็บ และปวด บวม แดงได้"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

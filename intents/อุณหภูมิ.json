@@ -1,0 +1,35 @@
+{
+  "id": "6a7e6e46-6a0d-4c29-b5ef-5acba7f13b54",
+  "name": "อุณหภูมิ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "อุณหภูมิประมาณ 20-30องศาเซลเซียส หรืออุณหภูมิตามบ้านเรา ในที่ร่ม ไม่โดนแดดหรือไอความร้อน ชอบอากาศร้อนชื้น"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

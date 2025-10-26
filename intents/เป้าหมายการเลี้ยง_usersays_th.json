@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7286a2bc-7a8c-424c-90f7-e95c82912cde",
+    "data": [
+      {
+        "text": "ทำไมถึงเลี้ยงแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "9b3b0b06-f9eb-4089-9dab-85eb893a42d4",
+    "data": [
+      {
+        "text": "เลี้ยงแมงป่องแล้วได้อะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "9a56e6dc-de98-4b6e-a485-8412d6b90c80",
+    "data": [
+      {
+        "text": "เลี้ยงแมงป่องช้างทำไม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

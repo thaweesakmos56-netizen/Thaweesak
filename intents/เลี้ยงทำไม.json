@@ -1,0 +1,234 @@
+{
+  "id": "2420843e-7158-4ba1-ac9e-ea6a8a5a4944",
+  "name": "เลี้ยงทำไม",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "body": {
+                  "layout": "vertical",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "lg",
+                      "weight": "bold",
+                      "color": "#333333",
+                      "align": "center",
+                      "text": "เลี้ยงไว้ทำไม?"
+                    },
+                    {
+                      "margin": "md",
+                      "color": "#BBBBBB",
+                      "type": "separator"
+                    },
+                    {
+                      "backgroundColor": "#FFD9E8",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "color": "#333333",
+                          "align": "center",
+                          "wrap": true,
+                          "weight": "bold",
+                          "text": "เลี้ยงไว้ดูเล่น"
+                        },
+                        {
+                          "color": "#333333",
+                          "type": "button",
+                          "style": "link",
+                          "action": {
+                            "label": "รายละเอียด",
+                            "type": "message",
+                            "text": "เลี้ยงไว้ดูเล่น"
+                          }
+                        }
+                      ],
+                      "paddingAll": "12px",
+                      "cornerRadius": "16px",
+                      "layout": "vertical"
+                    },
+                    {
+                      "cornerRadius": "16px",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "weight": "bold",
+                          "wrap": true,
+                          "color": "#333333",
+                          "align": "center",
+                          "text": "เลี้ยงไว้กิน"
+                        },
+                        {
+                          "type": "button",
+                          "style": "link",
+                          "color": "#333333",
+                          "action": {
+                            "text": "เลี้ยงไว้กิน",
+                            "label": "รายละเอียด",
+                            "type": "message"
+                          }
+                        }
+                      ],
+                      "type": "box",
+                      "layout": "vertical",
+                      "paddingAll": "12px",
+                      "backgroundColor": "#CDE7FF"
+                    },
+                    {
+                      "contents": [
+                        {
+                          "align": "center",
+                          "color": "#333333",
+                          "text": "เลี้ยงไว้กำจัดซากจิ้งหรีด",
+                          "type": "text",
+                          "wrap": true,
+                          "weight": "bold"
+                        },
+                        {
+                          "style": "link",
+                          "type": "button",
+                          "color": "#333333",
+                          "action": {
+                            "type": "message",
+                            "label": "รายละเอียด",
+                            "text": "เลี้ยงไว้กำจัดซากจิ้งหรีด"
+                          }
+                        }
+                      ],
+                      "layout": "vertical",
+                      "cornerRadius": "16px",
+                      "paddingAll": "12px",
+                      "backgroundColor": "#FFF5BA",
+                      "type": "box"
+                    },
+                    {
+                      "paddingAll": "12px",
+                      "contents": [
+                        {
+                          "align": "center",
+                          "weight": "bold",
+                          "wrap": true,
+                          "type": "text",
+                          "color": "#333333",
+                          "text": "เลี้ยงไว้ส่งตลาด"
+                        },
+                        {
+                          "style": "link",
+                          "action": {
+                            "type": "message",
+                            "label": "รายละเอียด",
+                            "text": "เลี้ยงไว้ส่งตลาด"
+                          },
+                          "type": "button",
+                          "color": "#333333"
+                        }
+                      ],
+                      "layout": "vertical",
+                      "type": "box",
+                      "backgroundColor": "#D7FFD9",
+                      "cornerRadius": "16px"
+                    },
+                    {
+                      "paddingAll": "12px",
+                      "backgroundColor": "#EAD9FF",
+                      "contents": [
+                        {
+                          "align": "center",
+                          "text": "เลี้ยงไว้สตั๊ฟฟ์เมื่อตาย",
+                          "weight": "bold",
+                          "wrap": true,
+                          "type": "text",
+                          "color": "#333333"
+                        },
+                        {
+                          "style": "link",
+                          "color": "#333333",
+                          "action": {
+                            "type": "message",
+                            "text": "เลี้ยงไว้สตั๊ฟฟ์เมื่อตาย",
+                            "label": "รายละเอียด"
+                          },
+                          "type": "button"
+                        }
+                      ],
+                      "layout": "vertical",
+                      "cornerRadius": "16px",
+                      "type": "box"
+                    },
+                    {
+                      "cornerRadius": "16px",
+                      "backgroundColor": "#FFC9DE",
+                      "type": "box",
+                      "layout": "vertical",
+                      "paddingAll": "12px",
+                      "contents": [
+                        {
+                          "align": "center",
+                          "wrap": true,
+                          "type": "text",
+                          "weight": "bold",
+                          "color": "#333333",
+                          "text": "เลี้ยงไว้เพื่อการส่งออก"
+                        },
+                        {
+                          "action": {
+                            "type": "message",
+                            "text": "เลี้ยงไว้เพื่อการส่งออก",
+                            "label": "รายละเอียด"
+                          },
+                          "type": "button",
+                          "style": "link",
+                          "color": "#333333"
+                        }
+                      ]
+                    }
+                  ],
+                  "spacing": "md"
+                },
+                "type": "bubble"
+              },
+              "altText": "เลี้ยงไว้ทำไม?"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "dc247fa3-7f23-4aba-8264-77c59f71b133",
+    "data": [
+      {
+        "text": "พิเศษยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "86f8054f-c134-458f-8faa-c3371a5c41a7",
+    "data": [
+      {
+        "text": "แมงป่องเรืองแสง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7482b7ee-421d-41f4-a430-b0e2eb94b959",
+    "data": [
+      {
+        "text": "ความพิเศษของแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

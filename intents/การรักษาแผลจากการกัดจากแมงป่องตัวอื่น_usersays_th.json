@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e8be6a7a-d806-4b24-b54c-a5529eab0e2c",
+    "data": [
+      {
+        "text": "แมงป่องบาดเจ็บที่ขา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "bae97f7f-fa88-4f62-b974-8bfd146151f9",
+    "data": [
+      {
+        "text": "แมงป่องบาดเจ็บ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e3fa95a5-0f9e-4699-aaa6-21b6448da0ff",
+    "data": [
+      {
+        "text": "แมงป่องมีแผล",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7ff4f404-d1cc-4d89-abf9-8076dfde2b65",
+    "data": [
+      {
+        "text": "การรักษาแผลจากการกัดจากแมงป่องตัวอื่น",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

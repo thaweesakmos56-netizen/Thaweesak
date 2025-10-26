@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4a9c9895-de86-46ab-affc-20ddb03a81a6",
+    "data": [
+      {
+        "text": "ข้อควรระวัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c95f6090-007a-4901-bf40-664bca60c971",
+    "data": [
+      {
+        "text": "ปัญหาที่พบบ่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

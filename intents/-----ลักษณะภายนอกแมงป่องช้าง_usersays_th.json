@@ -1,0 +1,106 @@
+[
+  {
+    "id": "afe76105-3598-4799-a58d-e2e685dee9c2",
+    "data": [
+      {
+        "text": "แมงป่องมีกี่ปล้อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ef951d36-588f-42e5-ae80-3b1689e6c68f",
+    "data": [
+      {
+        "text": "มีกี่ขา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "41536a9a-6022-45e5-a1e0-5de0cf90bcbd",
+    "data": [
+      {
+        "text": "ขาแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a86a7c8a-2a3c-49bf-bc18-5ec07b4e7c58",
+    "data": [
+      {
+        "text": "สีแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "953287ba-cab3-4e06-9302-89503f01557b",
+    "data": [
+      {
+        "text": "รูปร่างแมงป่องเป็นยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "78b7cc52-6cc8-4483-bc02-cc397674c699",
+    "data": [
+      {
+        "text": "รูปร่าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e140e177-49a8-41d0-a932-a04dacf0c8be",
+    "data": [
+      {
+        "text": "ลักษณะแมงป่อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f8db7326-805d-44fc-aad8-ff8e7f9d2551",
+    "data": [
+      {
+        "text": "ลักษณะภายนอกแมงป่องช้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

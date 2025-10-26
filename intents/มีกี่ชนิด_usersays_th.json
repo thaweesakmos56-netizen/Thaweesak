@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e2e32156-77d3-4599-b342-3408f4baf535",
+    "data": [
+      {
+        "text": "แมงป่องมีกี่ชนิด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ca1d8cf5-e08a-435e-a8a0-d00f2b7c4a43",
+    "data": [
+      {
+        "text": "ชนิด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]
