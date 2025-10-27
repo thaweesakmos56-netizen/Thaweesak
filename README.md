@@ -59,7 +59,7 @@ npm start
 แชทบอท: “แมงป่องช้างกินแมลง เช่น จิ้งหรีด และหนอนนก ควรให้อาหารสัปดาห์ละ 1–2 ครั้งค่ะ!”
 
 ### วิดิโอตัวอย่างการใช้งาน
-https://drive.google.com/file/d/1ENCSm0ul_5yadnIn3qCatVqtXTi8pcKl/view?usp=sharing
+```https://drive.google.com/file/d/1ENCSm0ul_5yadnIn3qCatVqtXTi8pcKl/view?usp=sharing```
 
 👨‍💻 ผู้พัฒนา
 ชื่อ: นายทวีศักดิ์ สีอังรัตน์
