@@ -46,6 +46,7 @@ cd Thaweesak.
 หลักสูตร: วิทยาการคอมพิวเตอร์
 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
 📧 thaweesak.mos56@gmail.com
+Github : https://github.com/thaweesakmos56-netizen
 
 
 # 🎥 ตัวอย่างการทำงานของแชทบอท
